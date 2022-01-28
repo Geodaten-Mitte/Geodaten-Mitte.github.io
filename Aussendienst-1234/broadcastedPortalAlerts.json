@@ -2,7 +2,7 @@
     "globalAlerts": ["searchHint", "wartung"],
 
     "restrictedAlerts": {
-        "https://christoph-blank.github.io/Kombiniert/Aussendienst-1234/": ["searchHint", "wartung"]
+        "https://christoph-blank.github.io/Aussendienst-1234/": ["searchHint", "wartung"]
 
 
     },
