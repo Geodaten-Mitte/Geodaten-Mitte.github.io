@@ -159,7 +159,7 @@
     {
         "id": "Gebuehrenzone_F",
         "name": "Gebuehrenzone",
-        "url": "/Kombiniert/resources/geojson/Gebuehrenzone_F.geojson",
+        "url": "/resources/geojson/Gebuehrenzone_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -172,7 +172,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
         "layerAttribution": "Parkraumbewirtschaftung in Berlin Mitte. <br>.<br>Letzte Aktualisierung: 19.10.2021 <br>Quelle: Ordnungsamt <br>.<br>Ansprechpartener Technisch: Herr Blank<br>Telefon: 030 / 901833610<br>E-Mail: christoph.blank@ba-mitte.berlin.de<br>.<br>Ansprechpartener Inhaltlich: Herr Stevens<br>Telefon: 030 / 901822733<br>E-Mail: m.stevens@ba-mitte.berlin.de",
         "cache": false,
         "datasets": [{
@@ -184,7 +184,7 @@
     {
         "id": "Parkzone_T",
         "name": "Parkzone_T",
-        "url": "/Kombiniert/resources/geojson/Parkzone_T.geojson",
+        "url": "/resources/geojson/Parkzone_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -194,7 +194,7 @@
     {
         "id": "Parkzone_L",
         "name": "Parkzone_L",
-        "url": "/Kombiniert/resources/geojson/Parkzone_L.geojson",
+        "url": "/resources/geojson/Parkzone_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -204,7 +204,7 @@
     {
         "id": "Zone_1_F",
         "name": "Zone_1_F",
-        "url": "/Kombiniert/resources/geojson/Zone_1_F.geojson",
+        "url": "/resources/geojson/Zone_1_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -217,7 +217,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -229,7 +229,7 @@
     {
         "id": "Zone_1_T",
         "name": "Zone_1_T",
-        "url": "/Kombiniert/resources/geojson/Zone_1_T.geojson",
+        "url": "/resources/geojson/Zone_1_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -239,7 +239,7 @@
     {
         "id": "Zone_1_L",
         "name": "Zone_1_L",
-        "url": "/Kombiniert/resources/geojson/Zone_1_L.geojson",
+        "url": "/resources/geojson/Zone_1_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -249,7 +249,7 @@
     {
         "id": "Zone_2_F",
         "name": "Zone_2_F",
-        "url": "/Kombiniert/resources/geojson/Zone_2_F.geojson",
+        "url": "/resources/geojson/Zone_2_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -262,7 +262,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -274,7 +274,7 @@
     {
         "id": "Zone_2_T",
         "name": "Zone_2_T",
-        "url": "/Kombiniert/resources/geojson/Zone_2_T.geojson",
+        "url": "/resources/geojson/Zone_2_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -284,7 +284,7 @@
     {
         "id": "Zone_2_L",
         "name": "Zone_2_L",
-        "url": "/Kombiniert/resources/geojson/Zone_2_L.geojson",
+        "url": "/resources/geojson/Zone_2_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -295,7 +295,7 @@
     {
         "id": "Zone_3_F",
         "name": "Zone_3_F",
-        "url": "/Kombiniert/resources/geojson/Zone_3_F.geojson",
+        "url": "/resources/geojson/Zone_3_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -308,7 +308,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -320,7 +320,7 @@
     {
         "id": "Zone_3_T",
         "name": "Zone_3_T",
-        "url": "/Kombiniert/resources/geojson/Zone_3_T.geojson",
+        "url": "/resources/geojson/Zone_3_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -330,7 +330,7 @@
     {
         "id": "Zone_3_L",
         "name": "Zone_3_L",
-        "url": "/Kombiniert/resources/geojson/Zone_3_L.geojson",
+        "url": "/resources/geojson/Zone_3_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -341,7 +341,7 @@
     {
         "id": "Zone_14_F",
         "name": "Zone_14_F",
-        "url": "/Kombiniert/resources/geojson/Zone_14_F.geojson",
+        "url": "/resources/geojson/Zone_14_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -354,7 +354,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -366,7 +366,7 @@
     {
         "id": "Zone_14_T",
         "name": "Zone_14_T",
-        "url": "/Kombiniert/resources/geojson/Zone_14_T.geojson",
+        "url": "/resources/geojson/Zone_14_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -376,7 +376,7 @@
     {
         "id": "Zone_14_L",
         "name": "Zone_14_L",
-        "url": "/Kombiniert/resources/geojson/Zone_14_L.geojson",
+        "url": "/resources/geojson/Zone_14_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -387,7 +387,7 @@
     {
         "id": "Zone_15_F",
         "name": "Zone_15_F",
-        "url": "/Kombiniert/resources/geojson/Zone_15_F.geojson",
+        "url": "/resources/geojson/Zone_15_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -400,7 +400,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -412,7 +412,7 @@
     {
         "id": "Zone_15_T",
         "name": "Zone_15_T",
-        "url": "/Kombiniert/resources/geojson/Zone_15_T.geojson",
+        "url": "/resources/geojson/Zone_15_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -422,7 +422,7 @@
     {
         "id": "Zone_15_L",
         "name": "Zone_15_L",
-        "url": "/Kombiniert/resources/geojson/Zone_15_L.geojson",
+        "url": "/resources/geojson/Zone_15_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -433,7 +433,7 @@
     {
         "id": "Zone_20_F",
         "name": "Zone_20_F",
-        "url": "/Kombiniert/resources/geojson/Zone_20_F.geojson",
+        "url": "/resources/geojson/Zone_20_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -446,7 +446,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -458,7 +458,7 @@
     {
         "id": "Zone_20_T",
         "name": "Zone_20_T",
-        "url": "/Kombiniert/resources/geojson/Zone_20_T.geojson",
+        "url": "/resources/geojson/Zone_20_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -468,7 +468,7 @@
     {
         "id": "Zone_20_L",
         "name": "Zone_20_L",
-        "url": "/Kombiniert/resources/geojson/Zone_20_L.geojson",
+        "url": "/resources/geojson/Zone_20_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -479,7 +479,7 @@
     {
         "id": "Zone_21_F",
         "name": "Zone_21_F",
-        "url": "/Kombiniert/resources/geojson/Zone_21_F.geojson",
+        "url": "/resources/geojson/Zone_21_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -492,7 +492,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -504,7 +504,7 @@
     {
         "id": "Zone_21_T",
         "name": "Zone_21_T",
-        "url": "/Kombiniert/resources/geojson/Zone_21_T.geojson",
+        "url": "/resources/geojson/Zone_21_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -514,7 +514,7 @@
     {
         "id": "Zone_21_L",
         "name": "Zone_21_L",
-        "url": "/Kombiniert/resources/geojson/Zone_21_L.geojson",
+        "url": "/resources/geojson/Zone_21_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -525,7 +525,7 @@
     {
         "id": "Zone_22_F",
         "name": "Zone_22_F",
-        "url": "/Kombiniert/resources/geojson/Zone_22_F.geojson",
+        "url": "/resources/geojson/Zone_22_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -538,7 +538,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -550,7 +550,7 @@
     {
         "id": "Zone_22_T",
         "name": "Zone_22_T",
-        "url": "/Kombiniert/resources/geojson/Zone_22_T.geojson",
+        "url": "/resources/geojson/Zone_22_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -560,7 +560,7 @@
     {
         "id": "Zone_22_L",
         "name": "Zone_22_L",
-        "url": "/Kombiniert/resources/geojson/Zone_22_L.geojson",
+        "url": "/resources/geojson/Zone_22_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -571,7 +571,7 @@
     {
         "id": "Zone_29_F",
         "name": "Zone_29_F",
-        "url": "/Kombiniert/resources/geojson/Zone_29_F.geojson",
+        "url": "/resources/geojson/Zone_29_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -584,7 +584,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -596,7 +596,7 @@
     {
         "id": "Zone_29_T",
         "name": "Zone_29_T",
-        "url": "/Kombiniert/resources/geojson/Zone_29_T.geojson",
+        "url": "/resources/geojson/Zone_29_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -606,7 +606,7 @@
     {
         "id": "Zone_29_L",
         "name": "Zone_29_L",
-        "url": "/Kombiniert/resources/geojson/Zone_29_L.geojson",
+        "url": "/resources/geojson/Zone_29_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -617,7 +617,7 @@
     {
         "id": "Zone_33_F",
         "name": "Zone_33_F",
-        "url": "/Kombiniert/resources/geojson/Zone_33_F.geojson",
+        "url": "/resources/geojson/Zone_33_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -630,7 +630,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -642,7 +642,7 @@
     {
         "id": "Zone_33_T",
         "name": "Zone_33_T",
-        "url": "/Kombiniert/resources/geojson/Zone_33_T.geojson",
+        "url": "/resources/geojson/Zone_33_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -652,7 +652,7 @@
     {
         "id": "Zone_33_L",
         "name": "Zone_33_L",
-        "url": "/Kombiniert/resources/geojson/Zone_33_L.geojson",
+        "url": "/resources/geojson/Zone_33_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -663,7 +663,7 @@
     {
         "id": "Zone_34_F",
         "name": "Zone_34_F",
-        "url": "/Kombiniert/resources/geojson/Zone_34_F.geojson",
+        "url": "/resources/geojson/Zone_34_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -676,7 +676,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -688,7 +688,7 @@
     {
         "id": "Zone_34_T",
         "name": "Zone_34_T",
-        "url": "/Kombiniert/resources/geojson/Zone_34_T.geojson",
+        "url": "/resources/geojson/Zone_34_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -698,7 +698,7 @@
     {
         "id": "Zone_34_L",
         "name": "Zone_34_L",
-        "url": "/Kombiniert/resources/geojson/Zone_34_L.geojson",
+        "url": "/resources/geojson/Zone_34_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -709,7 +709,7 @@
     {
         "id": "Zone_35_F",
         "name": "Zone_35_F",
-        "url": "/Kombiniert/resources/geojson/Zone_35_F.geojson",
+        "url": "/resources/geojson/Zone_35_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -722,7 +722,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -734,7 +734,7 @@
     {
         "id": "Zone_35_T",
         "name": "Zone_35_T",
-        "url": "/Kombiniert/resources/geojson/Zone_35_T.geojson",
+        "url": "/resources/geojson/Zone_35_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -744,7 +744,7 @@
     {
         "id": "Zone_35_L",
         "name": "Zone_35_L",
-        "url": "/Kombiniert/resources/geojson/Zone_35_L.geojson",
+        "url": "/resources/geojson/Zone_35_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -753,7 +753,7 @@
     }, {
         "id": "Zone_36_F",
         "name": "Zone_36_F",
-        "url": "/Kombiniert/resources/geojson/Zone_36_F.geojson",
+        "url": "/resources/geojson/Zone_36_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -766,7 +766,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -778,7 +778,7 @@
     {
         "id": "Zone_36_T",
         "name": "Zone_36_T",
-        "url": "/Kombiniert/resources/geojson/Zone_36_T.geojson",
+        "url": "/resources/geojson/Zone_36_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -788,7 +788,7 @@
     {
         "id": "Zone_36_L",
         "name": "Zone_36_L",
-        "url": "/Kombiniert/resources/geojson/Zone_36_L.geojson",
+        "url": "/resources/geojson/Zone_36_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -799,7 +799,7 @@
     {
         "id": "Zone_37_F",
         "name": "Zone_37_F",
-        "url": "/Kombiniert/resources/geojson/Zone_37_F.geojson",
+        "url": "/resources/geojson/Zone_37_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -812,7 +812,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -824,7 +824,7 @@
     {
         "id": "Zone_37_T",
         "name": "Zone_37_T",
-        "url": "/Kombiniert/resources/geojson/Zone_37_T.geojson",
+        "url": "/resources/geojson/Zone_37_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -834,7 +834,7 @@
     {
         "id": "Zone_37_L",
         "name": "Zone_37_L",
-        "url": "/Kombiniert/resources/geojson/Zone_37_L.geojson",
+        "url": "/resources/geojson/Zone_37_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -845,7 +845,7 @@
     {
         "id": "Zone_38_F",
         "name": "Zone_38_F",
-        "url": "/Kombiniert/resources/geojson/Zone_38_F.geojson",
+        "url": "/resources/geojson/Zone_38_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -858,7 +858,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -870,7 +870,7 @@
     {
         "id": "Zone_38_T",
         "name": "Zone_38_T",
-        "url": "/Kombiniert/resources/geojson/Zone_38_T.geojson",
+        "url": "/resources/geojson/Zone_38_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -880,7 +880,7 @@
     {
         "id": "Zone_38_L",
         "name": "Zone_38_L",
-        "url": "/Kombiniert/resources/geojson/Zone_38_L.geojson",
+        "url": "/resources/geojson/Zone_38_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -891,7 +891,7 @@
     {
         "id": "Zone_41_F",
         "name": "Zone_41_F",
-        "url": "/Kombiniert/resources/geojson/Zone_41_F.geojson",
+        "url": "/resources/geojson/Zone_41_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -904,7 +904,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -916,7 +916,7 @@
     {
         "id": "Zone_41_T",
         "name": "Zone_41_T",
-        "url": "/Kombiniert/resources/geojson/Zone_41_T.geojson",
+        "url": "/resources/geojson/Zone_41_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -926,7 +926,7 @@
     {
         "id": "Zone_41_L",
         "name": "Zone_41_L",
-        "url": "/Kombiniert/resources/geojson/Zone_41_L.geojson",
+        "url": "/resources/geojson/Zone_41_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -937,7 +937,7 @@
     {
         "id": "Zone_70_F",
         "name": "Zone_70_F",
-        "url": "/Kombiniert/resources/geojson/Zone_70_F.geojson",
+        "url": "/resources/geojson/Zone_70_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -950,7 +950,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -962,7 +962,7 @@
     {
         "id": "Zone_70_T",
         "name": "Zone_70_T",
-        "url": "/Kombiniert/resources/geojson/Zone_70_T.geojson",
+        "url": "/resources/geojson/Zone_70_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -972,7 +972,7 @@
     {
         "id": "Zone_70_L",
         "name": "Zone_70_L",
-        "url": "/Kombiniert/resources/geojson/Zone_70_L.geojson",
+        "url": "/resources/geojson/Zone_70_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -982,7 +982,7 @@
     {
         "id": "PSA_Zone_70",
         "name": "PSA_Zone_70",
-        "url": "/Kombiniert/resources/geojson/PSA_Zone_70.geojson",
+        "url": "/resources/geojson/PSA_Zone_70.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1000,7 +1000,7 @@
     {
         "id": "Zone_71_F",
         "name": "Zone_71_F",
-        "url": "/Kombiniert/resources/geojson/Zone_71_F.geojson",
+        "url": "/resources/geojson/Zone_71_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1013,7 +1013,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -1025,7 +1025,7 @@
     {
         "id": "Zone_71_T",
         "name": "Zone_71_T",
-        "url": "/Kombiniert/resources/geojson/Zone_71_T.geojson",
+        "url": "/resources/geojson/Zone_71_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1035,7 +1035,7 @@
     {
         "id": "Zone_71_L",
         "name": "Zone_71_L",
-        "url": "/Kombiniert/resources/geojson/Zone_71_L.geojson",
+        "url": "/resources/geojson/Zone_71_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1045,7 +1045,7 @@
     {
         "id": "PSA_Zone_71",
         "name": "PSA_Zone_71",
-        "url": "/Kombiniert/resources/geojson/PSA_Zone_71.geojson",
+        "url": "/resources/geojson/PSA_Zone_71.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1063,7 +1063,7 @@
     {
         "id": "Zone_72_F",
         "name": "Zone_72_F",
-        "url": "/Kombiniert/resources/geojson/Zone_72_F.geojson",
+        "url": "/resources/geojson/Zone_72_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1076,7 +1076,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -1088,7 +1088,7 @@
     {
         "id": "Zone_72_T",
         "name": "Zone_72_T",
-        "url": "/Kombiniert/resources/geojson/Zone_72_T.geojson",
+        "url": "/resources/geojson/Zone_72_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1098,7 +1098,7 @@
     {
         "id": "Zone_72_L",
         "name": "Zone_72_L",
-        "url": "/Kombiniert/resources/geojson/Zone_72_L.geojson",
+        "url": "/resources/geojson/Zone_72_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1108,7 +1108,7 @@
     {
         "id": "PSA_Zone_72",
         "name": "PSA_Zone_72",
-        "url": "/Kombiniert/resources/geojson/PSA_Zone_72.geojson",
+        "url": "/resources/geojson/PSA_Zone_72.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1126,7 +1126,7 @@
     {
         "id": "Zone_73_F",
         "name": "Zone_73_F",
-        "url": "/Kombiniert/resources/geojson/Zone_73_F.geojson",
+        "url": "/resources/geojson/Zone_73_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1139,7 +1139,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -1151,7 +1151,7 @@
     {
         "id": "Zone_73_T",
         "name": "Zone_73_T",
-        "url": "/Kombiniert/resources/geojson/Zone_73_T.geojson",
+        "url": "/resources/geojson/Zone_73_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1161,7 +1161,7 @@
     {
         "id": "Zone_73_L",
         "name": "Zone_73_L",
-        "url": "/Kombiniert/resources/geojson/Zone_73_L.geojson",
+        "url": "/resources/geojson/Zone_73_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1171,7 +1171,7 @@
     {
         "id": "PSA_Zone_73",
         "name": "PSA_Zone_73",
-        "url": "/Kombiniert/resources/geojson/PSA_Zone_73.geojson",
+        "url": "/resources/geojson/PSA_Zone_73.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1189,7 +1189,7 @@
     {
         "id": "Zone_74_F",
         "name": "Zone_74_F",
-        "url": "/Kombiniert/resources/geojson/Zone_74_F.geojson",
+        "url": "/resources/geojson/Zone_74_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1202,7 +1202,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -1214,7 +1214,7 @@
     {
         "id": "Zone_74_T",
         "name": "Zone_74_T",
-        "url": "/Kombiniert/resources/geojson/Zone_74_T.geojson",
+        "url": "/resources/geojson/Zone_74_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1224,7 +1224,7 @@
     {
         "id": "Zone_74_L",
         "name": "Zone_74_L",
-        "url": "/Kombiniert/resources/geojson/Zone_74_L.geojson",
+        "url": "/resources/geojson/Zone_74_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1234,7 +1234,7 @@
     {
         "id": "PSA_Zone_74",
         "name": "PSA_Zone_74",
-        "url": "/Kombiniert/resources/geojson/PSA_Zone_74.geojson",
+        "url": "/resources/geojson/PSA_Zone_74.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1252,7 +1252,7 @@
     {
         "id": "Zone_75_F",
         "name": "Zone_75_F",
-        "url": "/Kombiniert/resources/geojson/Zone_75_F.geojson",
+        "url": "/resources/geojson/Zone_75_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1265,7 +1265,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -1277,7 +1277,7 @@
     {
         "id": "Zone_75_T",
         "name": "Zone_75_T",
-        "url": "/Kombiniert/resources/geojson/Zone_75_T.geojson",
+        "url": "/resources/geojson/Zone_75_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1287,7 +1287,7 @@
     {
         "id": "Zone_75_L",
         "name": "Zone_75_L",
-        "url": "/Kombiniert/resources/geojson/Zone_75_L.geojson",
+        "url": "/resources/geojson/Zone_75_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1297,7 +1297,7 @@
     {
         "id": "PSA_Zone_75",
         "name": "PSA_Zone_75",
-        "url": "/Kombiniert/resources/geojson/PSA_Zone_75.geojson",
+        "url": "/resources/geojson/PSA_Zone_75.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1315,7 +1315,7 @@
     {
         "id": "Zone_76_F",
         "name": "Zone_76_F",
-        "url": "/Kombiniert/resources/geojson/Zone_76_F.geojson",
+        "url": "/resources/geojson/Zone_76_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1328,7 +1328,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -1340,7 +1340,7 @@
     {
         "id": "Zone_76_T",
         "name": "Zone_76_T",
-        "url": "/Kombiniert/resources/geojson/Zone_76_T.geojson",
+        "url": "/resources/geojson/Zone_76_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1350,7 +1350,7 @@
     {
         "id": "Zone_76_L",
         "name": "Zone_76_L",
-        "url": "/Kombiniert/resources/geojson/Zone_76_L.geojson",
+        "url": "/resources/geojson/Zone_76_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1360,7 +1360,7 @@
     {
         "id": "PSA_Zone_76",
         "name": "PSA_Zone_76",
-        "url": "/Kombiniert/resources/geojson/PSA_Zone_76.geojson",
+        "url": "/resources/geojson/PSA_Zone_76.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1378,7 +1378,7 @@
     {
         "id": "Zone_77_F",
         "name": "Zone_77_F",
-        "url": "/Kombiniert/resources/geojson/Zone_77_F.geojson",
+        "url": "/resources/geojson/Zone_77_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1391,7 +1391,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -1403,7 +1403,7 @@
     {
         "id": "Zone_77_T",
         "name": "Zone_77_T",
-        "url": "/Kombiniert/resources/geojson/Zone_77_T.geojson",
+        "url": "/resources/geojson/Zone_77_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1413,7 +1413,7 @@
     {
         "id": "Zone_77_L",
         "name": "Zone_77_L",
-        "url": "/Kombiniert/resources/geojson/Zone_77_L.geojson",
+        "url": "/resources/geojson/Zone_77_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1424,7 +1424,7 @@
     {
         "id": "Zone_78_F",
         "name": "Zone_78_F",
-        "url": "/Kombiniert/resources/geojson/Zone_78_F.geojson",
+        "url": "/resources/geojson/Zone_78_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1437,7 +1437,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -1449,7 +1449,7 @@
     {
         "id": "Zone_78_T",
         "name": "Zone_78_T",
-        "url": "/Kombiniert/resources/geojson/Zone_78_T.geojson",
+        "url": "/resources/geojson/Zone_78_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1459,7 +1459,7 @@
     {
         "id": "Zone_78_L",
         "name": "Zone_78_L",
-        "url": "/Kombiniert/resources/geojson/Zone_78_L.geojson",
+        "url": "/resources/geojson/Zone_78_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1470,7 +1470,7 @@
     {
         "id": "Zone_79_F",
         "name": "Zone_79_F",
-        "url": "/Kombiniert/resources/geojson/Zone_79_F.geojson",
+        "url": "/resources/geojson/Zone_79_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1483,7 +1483,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -1495,7 +1495,7 @@
     {
         "id": "Zone_79_T",
         "name": "Zone_79_T",
-        "url": "/Kombiniert/resources/geojson/Zone_79_T.geojson",
+        "url": "/resources/geojson/Zone_79_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1505,7 +1505,7 @@
     {
         "id": "Zone_79_L",
         "name": "Zone_79_L",
-        "url": "/Kombiniert/resources/geojson/Zone_79_L.geojson",
+        "url": "/resources/geojson/Zone_79_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1516,7 +1516,7 @@
     {
         "id": "Zone_80_F",
         "name": "Zone_80_F",
-        "url": "/Kombiniert/resources/geojson/Zone_80_F.geojson",
+        "url": "/resources/geojson/Zone_80_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1529,7 +1529,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -1541,7 +1541,7 @@
     {
         "id": "Zone_80_T",
         "name": "Zone_80_T",
-        "url": "/Kombiniert/resources/geojson/Zone_80_T.geojson",
+        "url": "/resources/geojson/Zone_80_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1551,7 +1551,7 @@
     {
         "id": "Zone_80_L",
         "name": "Zone_80_L",
-        "url": "/Kombiniert/resources/geojson/Zone_80_L.geojson",
+        "url": "/resources/geojson/Zone_80_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1562,7 +1562,7 @@
     {
         "id": "Zone_81_F",
         "name": "Zone_81_F",
-        "url": "/Kombiniert/resources/geojson/Zone_81_F.geojson",
+        "url": "/resources/geojson/Zone_81_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1575,7 +1575,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -1587,7 +1587,7 @@
     {
         "id": "Zone_81_T",
         "name": "Zone_81_T",
-        "url": "/Kombiniert/resources/geojson/Zone_81_T.geojson",
+        "url": "/resources/geojson/Zone_81_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1597,7 +1597,7 @@
     {
         "id": "Zone_81_L",
         "name": "Zone_81_L",
-        "url": "/Kombiniert/resources/geojson/Zone_81_L.geojson",
+        "url": "/resources/geojson/Zone_81_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1608,7 +1608,7 @@
     {
         "id": "Zone_82_F",
         "name": "Zone_82_F",
-        "url": "/Kombiniert/resources/geojson/Zone_82_F.geojson",
+        "url": "/resources/geojson/Zone_82_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1621,7 +1621,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -1633,7 +1633,7 @@
     {
         "id": "Zone_82_T",
         "name": "Zone_82_T",
-        "url": "/Kombiniert/resources/geojson/Zone_82_T.geojson",
+        "url": "/resources/geojson/Zone_82_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1643,7 +1643,7 @@
     {
         "id": "Zone_82_L",
         "name": "Zone_82_L",
-        "url": "/Kombiniert/resources/geojson/Zone_82_L.geojson",
+        "url": "/resources/geojson/Zone_82_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1654,7 +1654,7 @@
     {
         "id": "Zone_83_F",
         "name": "Zone_83_F",
-        "url": "/Kombiniert/resources/geojson/Zone_83_F.geojson",
+        "url": "/resources/geojson/Zone_83_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1667,7 +1667,7 @@
             "PARKZONE": "Parkzone",
             "ZEITEN": "Bewirtschaftungszeiten"
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Parkraumbewirtschaftung.png",
+        "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
 
         "cache": false,
         "datasets": [{
@@ -1679,7 +1679,7 @@
     {
         "id": "Zone_83_T",
         "name": "Zone_83_T",
-        "url": "/Kombiniert/resources/geojson/Zone_83_T.geojson",
+        "url": "/resources/geojson/Zone_83_T.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1689,7 +1689,7 @@
     {
         "id": "Zone_83_L",
         "name": "Zone_83_L",
-        "url": "/Kombiniert/resources/geojson/Zone_83_L.geojson",
+        "url": "/resources/geojson/Zone_83_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1700,7 +1700,7 @@
     {
         "id": "Parkschein",
         "name": "Parkscheinautomat",
-        "url": "/Kombiniert/resources/geojson/Parkscheinautomaten.geojson",
+        "url": "/resources/geojson/Parkscheinautomaten.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1743,7 +1743,7 @@
     {
         "id": "Fernverkehr_L",
         "name": "Fernverkehr",
-        "url": "/Kombiniert/resources/geojson/Fernverkehr_Linien.geojson",
+        "url": "/resources/geojson/Fernverkehr_Linien.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1756,7 +1756,7 @@
     {
         "id": "Fernverkehr_P",
         "name": "Fernverkehr",
-        "url": "/Kombiniert/resources/geojson/Fernverkehr_Halte.geojson",
+        "url": "/resources/geojson/Fernverkehr_Halte.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1768,7 +1768,7 @@
     {
         "id": "S-Bahn_L",
         "name": "S-Bahn",
-        "url": "/Kombiniert/resources/geojson/S-Bahn_Linien.geojson",
+        "url": "/resources/geojson/S-Bahn_Linien.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1781,7 +1781,7 @@
     {
         "id": "S-Bahn_P",
         "name": "S-Bahn",
-        "url": "/Kombiniert/resources/geojson/S-Bahn_Halte.geojson",
+        "url": "/resources/geojson/S-Bahn_Halte.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1793,7 +1793,7 @@
     {
         "id": "U-Bahn_L",
         "name": "U-Bahn",
-        "url": "/Kombiniert/resources/geojson/U-Bahn_Linien.geojson",
+        "url": "/resources/geojson/U-Bahn_Linien.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1806,7 +1806,7 @@
     {
         "id": "U-Bahn_P",
         "name": "U-Bahn",
-        "url": "/Kombiniert/resources/geojson/U-Bahn_Halte.geojson",
+        "url": "/resources/geojson/U-Bahn_Halte.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1818,7 +1818,7 @@
     {
         "id": "Bus_L",
         "name": "Bus",
-        "url": "/Kombiniert/resources/geojson/Bus_Linien.geojson",
+        "url": "/resources/geojson/Bus_Linien.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1831,7 +1831,7 @@
     {
         "id": "Bus_P",
         "name": "Bus",
-        "url": "/Kombiniert/resources/geojson/Bus_Halte_1.geojson",
+        "url": "/resources/geojson/Bus_Halte_1.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1844,7 +1844,7 @@
     {
         "id": "Tram_L",
         "name": "Tram",
-        "url": "/Kombiniert/resources/geojson/Tram_Linien.geojson",
+        "url": "/resources/geojson/Tram_Linien.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1857,7 +1857,7 @@
     {
         "id": "Tram_P",
         "name": "Tram",
-        "url": "/Kombiniert/resources/geojson/Tram_Halte.geojson",
+        "url": "/resources/geojson/Tram_Halte.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1871,7 +1871,7 @@
     {
         "id": "Citytoiletten_P",
         "name": "Citytoiletten",
-        "url": "/Kombiniert/resources/geojson/Citytoiletten_im_Bezirk_Mitte.geojson",
+        "url": "/resources/geojson/Citytoiletten_im_Bezirk_Mitte.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1920,7 +1920,7 @@
     {
         "id": "Neubauten_Neu",
         "name": "Neubauten",
-        "url": "/Kombiniert/resources/geojson/Neubauten.geojson",
+        "url": "/resources/geojson/Neubauten.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1934,14 +1934,14 @@
 
 
         },
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Neubauten.png",
+        "legendURL": "/resources/Leg/Legende_Neubauten.png",
         "layerAttribution": "Neubauvorhaben im Bezirk Mitte (Stand 01.09.2021)",
         "cache": false
     },
     {
         "id": "Schulen_T",
         "name": "Schulen_TXT",
-        "url": "/Kombiniert/resources/geojson/Schulen_2021_TX.geojson",
+        "url": "/resources/geojson/Schulen_2021_TX.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1951,7 +1951,7 @@
     {
         "id": "Schulen_F",
         "name": "Schulen",
-        "url": "/Kombiniert/resources/geojson/Schulen_2021_FL.geojson",
+        "url": "/resources/geojson/Schulen_2021_FL.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -1968,7 +1968,7 @@
             "BEZIRK": "Bezirk"
         },
         "layerAttribution": "Schulen im Bezirk Mitte (Stand 07.2021)",
-        "legendURL": "/Kombiniert/resources/Leg/Legende_Schulen.png",
+        "legendURL": "/resources/Leg/Legende_Schulen.png",
         "cache": false,
         "datasets": [{
             "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
@@ -1978,7 +1978,7 @@
     {
         "id": "B-Plan_T",
         "name": "Bebauungspläne",
-        "url": "/Kombiniert/resources/geojson/B-Plan_TX.geojson",
+        "url": "/resources/geojson/B-Plan_TX.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -1988,7 +1988,7 @@
     {
         "id": "B-Plan_F",
         "name": "Bebauungspläne",
-        "url": "/Kombiniert/resources/geojson/B-Plan_FL.geojson",
+        "url": "/resources/geojson/B-Plan_FL.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -2003,13 +2003,13 @@
             "URL": "B-Plan"
         },
         "layerAttribution": "Bebauungspläne im Bezirk Mitte (Stand 08.2021)",
-        "legendURL": "/Kombiniert/resources/Leg/Legende_B-Plan.png",
+        "legendURL": "/resources/Leg/Legende_B-Plan.png",
         "cache": false
     },
     {
         "id": "B-Plan_L",
         "name": "Bebauungspläne",
-        "url": "/Kombiniert/resources/geojson/B-Plan_LI.geojson",
+        "url": "/resources/geojson/B-Plan_LI.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -2019,7 +2019,7 @@
     {
         "id": "Denkmale_Standbilder_P",
         "name": "Denkmale_Standbilder",
-        "url": "/Kombiniert/resources/geojson/Denkmale_Standbilder.geojson",
+        "url": "/resources/geojson/Denkmale_Standbilder.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -2044,7 +2044,7 @@
     {
         "id": "Gebaeude_F",
         "name": "Gebäude",
-        "url": "/Kombiniert/resources/geojson/Gebaeude_01_2022.geojson",
+        "url": "/resources/geojson/Gebaeude_01_2022.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -2062,7 +2062,7 @@
     {
         "id": "Behindertenparkp_P",
         "name": "Behindertenparkplätze",
-        "url": "/Kombiniert/resources/geojson/Behindertenparkp_P.geojson",
+        "url": "/resources/geojson/Behindertenparkp_P.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": {
@@ -2116,7 +2116,7 @@
     {
         "id": "Nummerierung_P",
         "name": "Nummerierung_Pkt",
-        "url": "/Kombiniert/resources/geojson/Nummerierungsbezirk_P.geojson",
+        "url": "/resources/geojson/Nummerierungsbezirk_P.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -2126,7 +2126,7 @@
     {
         "id": "Nummerierung_F",
         "name": "Nummerierung_Fl",
-        "url": "/Kombiniert/resources/geojson/Nummerierungsbezirk_F.geojson",
+        "url": "/resources/geojson/Nummerierungsbezirk_F.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -2136,7 +2136,7 @@
     {
         "id": "Kartenblatt_P",
         "name": "Kartenblatt_Pkt",
-        "url": "/Kombiniert/resources/geojson/Kartenblatt_P.geojson",
+        "url": "/resources/geojson/Kartenblatt_P.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
@@ -2146,7 +2146,7 @@
     {
         "id": "Kartenblatt_L",
         "name": "Kartenblatt_LI",
-        "url": "/Kombiniert/resources/geojson/Kartenblatt_L.geojson",
+        "url": "/resources/geojson/Kartenblatt_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
