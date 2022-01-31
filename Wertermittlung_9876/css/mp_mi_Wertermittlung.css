@@ -32,7 +32,7 @@ ul#tree.light {
 /*Farbänderung icons & infoboxen*/
 
 .control-icon[data-v-88407a44] {
-    background-color: #de3623;
+    background-color: #347732;
 }
 
 .control-icon[data-v-88407a44]:hover {
@@ -48,19 +48,19 @@ ul#tree.light {
 }
 
 .mouse-position[data-v-67b2a13e] {
-    background-color: #de3623;
+    background-color: #347732;
 }
 
 .attributions-wrapper .attributions-view dt[data-v-4fd678ba] {
-    color: #de3623;
+    color: #347732;
 }
 
 .tool-window-vue.is-minified .win-heading[data-v-2a3dd68d] {
-    background-color: #de3623;
+    background-color: #347732;
 }
 
 .tool-window>.header-min {
-    background-color: #de3623;
+    background-color: #347732;
 }
 
 .legend {
