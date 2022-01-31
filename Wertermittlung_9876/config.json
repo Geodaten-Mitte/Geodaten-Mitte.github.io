@@ -413,34 +413,36 @@
                     "Titel": "Bodenrichtwerte",
                     "isFolderSelectable": false,                    
                     "Layer": [{
-                "Titel": "Bodenrichtwerte 01.01.2014",
-                "Layer": [
-                    {
-                        "id": "brw_2014_amtlich:3",
-                        "minScale": "2500",
-                        "maxScale": "20000"
-                    },
-                    {
-                        "id": "brw_2014_amtlich:2",
-                        "minScale": "2500",
-                        "maxScale": "210000",
-                        "gfiUrlTemplate": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2014?request=GetFeature&service=wfs&version=2.0.0&typenames=s_brw_2014&filter=<Filter><Intersects><ValueReference>SHAPE</ValueReference><gml:Point srsName=\"__CRS__\" xmlns:gml=\"http://www.opengis.net/gml/3.2\"><gml:coordinates>__X__,__Y__</gml:coordinates></gml:Point></Intersects></Filter>&outputFormat=text/xml; subtype=gml/3.1.1",
-                        "gfiAttributes": {
-                            "BRWID": "Bodenrichtwert-Nummer",
-                            "GEMEINDE": "Gemeinde / Stadt",
-                            "BEZIRK": "Bezirk",
-                            "ANWERT": "Sanierungs-/Entwicklungszusatz",
-                            "BRW": "Bodenrichtwert",
-                            "NUTZUNG": "gebietstypische Nutzungsart",
-                            "GFZ": "gebietstypische GFZ",
-                            "VERFAHRENSART": "Sanierungs-/Entwicklungsmaßnahme",
-                            "STICHTAG": "Stichtag",
-                            "BEITRAGSZUSTAND": "Beitragszustand",
-                            "LUMNUM": "GFZ-Umrechnungskoeffizienten"
-                        }
-                    },
+                            "id": "g_bodenrichtwerte2014",
+                            "name": "Bodenrichtwerte 2014",
+			    "visibility": false,
+                            "children": [
+                    		{
+                        	"id": "brw_2014_amtlich:3",
+                        	"minScale": "2500",
+                        	"maxScale": "20000"
+                    		},
+                    		{
+                        	"id": "brw_2014_amtlich:2",
+                        	"minScale": "2500",
+                        	"maxScale": "210000",
+                        	"gfiUrlTemplate": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2014?request=GetFeature&service=wfs&version=2.0.0&typenames=s_brw_2014&filter=<Filter><Intersects><ValueReference>SHAPE</ValueReference><gml:Point srsName=\"__CRS__\" xmlns:gml=\"http://www.opengis.net/gml/3.2\"><gml:coordinates>__X__,__Y__</gml:coordinates></gml:Point></Intersects></Filter>&outputFormat=text/xml; subtype=gml/3.1.1",
+                        	"gfiAttributes": {
+                            		"BRWID": "Bodenrichtwert-Nummer",
+                            		"GEMEINDE": "Gemeinde / Stadt",
+                            		"BEZIRK": "Bezirk",
+                            		"ANWERT": "Sanierungs-/Entwicklungszusatz",
+                            		"BRW": "Bodenrichtwert",
+                            		"NUTZUNG": "gebietstypische Nutzungsart",
+                            		"GFZ": "gebietstypische GFZ",
+                            		"VERFAHRENSART": "Sanierungs-/Entwicklungsmaßnahme",
+                            		"STICHTAG": "Stichtag",
+                            		"BEITRAGSZUSTAND": "Beitragszustand",
+                            		"LUMNUM": "GFZ-Umrechnungskoeffizienten"
+                        			}
+                    		},
               
-			{
+				{
                             "id": "g_bodenrichtwerte2015",
                             "name": "Bodenrichtwerte 2015",
 			    "visibility": true,
