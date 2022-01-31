@@ -69,7 +69,7 @@
             <gmd:date>
               <gmd:CI_Date>
                 <gmd:date>
-                  <gco:Date>2019-07-04</gco:Date>
+                  <gco:Date>2021-08-01</gco:Date>
                 </gmd:date>
                 <gmd:dateType>
                   <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" />
@@ -79,7 +79,7 @@
             <gmd:date>
               <gmd:CI_Date>
                 <gmd:date>
-                  <gco:Date>2021-10-17</gco:Date>
+                  <gco:Date>2021-08-01</gco:Date>
                 </gmd:date>
                 <gmd:dateType>
                   <gmd:CI_DateTypeCode codeList="http://standards.iso.org/iso/19139/resources/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" />
@@ -89,7 +89,7 @@
           </gmd:CI_Citation>
         </gmd:citation>
         <gmd:abstract>
-          <gco:CharacterString> Parkraumbewirtschaftungsgebiete für Berlin Mitte </gco:CharacterString>
+          <gco:CharacterString> Bebauungsplanübersicht für den Bezirk Mitte </gco:CharacterString>
         </gmd:abstract>
       </srv:SV_ServiceIdentification>
     </gmd:identificationInfo>
