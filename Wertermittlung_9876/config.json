@@ -184,7 +184,7 @@
                             }
                         ]
                     },
-			 "layerSlider": {
+		    {
                         "name": "Bodenrichtwerte 2015-2021",
                         "glyphicon": "glyphicon-film",
                         "title": "Bodenrichtwerte 2015-2021",
