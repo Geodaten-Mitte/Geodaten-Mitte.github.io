@@ -3046,7 +3046,7 @@
         "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/denkmal",
         "typ": "WMS",
         "layers": ["1", "2", "3", "4", "5"],
-        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/denkmal/leg_baudenkmal.png",
+       "legendURL": "/resources/Leg/Legende_Baudenkmal.png",
         "datasets": [
             {
                 "md_id": "1892d073-2635-351c-bcef-b91ff82fea9c",
