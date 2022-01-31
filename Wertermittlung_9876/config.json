@@ -192,35 +192,31 @@
                         "timeInterval": 8000,
                         "layerIds": [{
                                 "title": "2015",
-                                "layerId": "g_bodenrichtwerte2015"
+                                "layerId": "brw_2015_amtlich:234"
                             },
                             {
                                 "title": "2016",
-                                "layerId": "g_bodenrichtwerte2016"
+                                "layerId": "brw_2016_amtlich:234"
                             },
                             {
                                 "title": "2017",
-                                "layerId": "g_bodenrichtwerte2017"
+                                "layerId": "brw_2017_amtlich:234"
                             },
                             {
                                 "title": "2018",
-                                "layerId": "g_bodenrichtwerte2018"
+                                "layerId": "brw_2018_amtlich:234"
                             },
                             {
                                 "title": "2019",
-                                "layerId": "g_bodenrichtwerte2019"
-                            },
-                            {
-                                "title": "2019",
-                                "layerId": "g_bodenrichtwerte2019"
-                            },
-                            {
+                                "layerId": "brw_2019_amtlich:234"
+                            },                            
+			    {
                                 "title": "2020",
-                                "layerId": "g_bodenrichtwerte2020"
+                                "layerId": "brw_2020_amtlich:234"
                             },
                             {
                                 "title": "2021",
-                                "layerId": "g_bodenrichtwerte2021"
+                                "layerId": "brw_2021_amtlich:234"
                             }
                         ]
                     },
