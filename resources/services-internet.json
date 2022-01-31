@@ -2528,9 +2528,11 @@
         "gfiAttributes": {
             "gemeinde": "Stadt",
             "bezirk": "Bezirk",
+            "Anwert": "Sanierungs-/Entwicklungszusatz",    
             "brw": "Bodenrichtwert",
             "nutzung": "Nutzungsart",
             "gfz": "GFZ",
+            "Verfahrensart": "Sanierungs-/Entwicklungsmaßnahme",    
             "stichtag": "Stichtag",
             "beitragszustand": "Beitragszustand",
             "lumnum": "GFZ-Umrechnungskoeffizienten"
@@ -2554,9 +2556,11 @@
         "gfiAttributes": {
             "gemeinde": "Stadt",
             "bezirk": "Bezirk",
+            "Anwert": "Sanierungs-/Entwicklungszusatz",    
             "brw": "Bodenrichtwert",
             "nutzung": "Nutzungsart",
             "gfz": "GFZ",
+            "Verfahrensart": "Sanierungs-/Entwicklungsmaßnahme",    
             "stichtag": "Stichtag",
             "beitragszustand": "Beitragszustand",
             "lumnum": "GFZ-Umrechnungskoeffizienten"
@@ -2580,9 +2584,11 @@
         "gfiAttributes": {
             "gemeinde": "Stadt",
             "bezirk": "Bezirk",
+            "Anwert": "Sanierungs-/Entwicklungszusatz",    
             "brw": "Bodenrichtwert",
             "nutzung": "Nutzungsart",
             "gfz": "GFZ",
+            "Verfahrensart": "Sanierungs-/Entwicklungsmaßnahme",    
             "stichtag": "Stichtag",
             "beitragszustand": "Beitragszustand",
             "lumnum": "GFZ-Umrechnungskoeffizienten"
@@ -2606,9 +2612,11 @@
         "gfiAttributes": {
             "gemeinde": "Stadt",
             "bezirk": "Bezirk",
+            "Anwert": "Sanierungs-/Entwicklungszusatz",    
             "brw": "Bodenrichtwert",
             "nutzung": "Nutzungsart",
             "gfz": "GFZ",
+            "Verfahrensart": "Sanierungs-/Entwicklungsmaßnahme",    
             "stichtag": "Stichtag",
             "beitragszustand": "Beitragszustand",
             "lumnum": "GFZ-Umrechnungskoeffizienten"
@@ -2632,9 +2640,11 @@
         "gfiAttributes": {
             "gemeinde": "Stadt",
             "bezirk": "Bezirk",
+            "Anwert": "Sanierungs-/Entwicklungszusatz",    
             "brw": "Bodenrichtwert",
             "nutzung": "Nutzungsart",
             "gfz": "GFZ",
+            "Verfahrensart": "Sanierungs-/Entwicklungsmaßnahme",    
             "stichtag": "Stichtag",
             "beitragszustand": "Beitragszustand",
             "lumnum": "GFZ-Umrechnungskoeffizienten"
@@ -2658,9 +2668,11 @@
         "gfiAttributes": {
             "gemeinde": "Stadt",
             "bezirk": "Bezirk",
+            "Anwert": "Sanierungs-/Entwicklungszusatz",    
             "brw": "Bodenrichtwert",
             "nutzung": "Nutzungsart",
             "gfz": "GFZ",
+            "Verfahrensart": "Sanierungs-/Entwicklungsmaßnahme",    
             "stichtag": "Stichtag",
             "beitragszustand": "Beitragszustand",
             "lumnum": "GFZ-Umrechnungskoeffizienten"
@@ -2684,9 +2696,11 @@
         "gfiAttributes": {
             "gemeinde": "Stadt",
             "bezirk": "Bezirk",
+            "Anwert": "Sanierungs-/Entwicklungszusatz",    
             "brw": "Bodenrichtwert",
             "nutzung": "Nutzungsart",
             "gfz": "GFZ",
+            "Verfahrensart": "Sanierungs-/Entwicklungsmaßnahme",    
             "stichtag": "Stichtag",
             "beitragszustand": "Beitragszustand",
             "lumnum": "GFZ-Umrechnungskoeffizienten"
