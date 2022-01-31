@@ -473,7 +473,7 @@
 			      {
                             "id": "g_bodenrichtwerte2016",
                             "name": "Bodenrichtwerte 2016",
-			    "visibility": true,
+			    "visibility": false,
                             "children": [ {
                         	"id": "brw_2016_amtlich:234",
                         	"minScale": "2500",
@@ -490,7 +490,7 @@
 			      {
                             "id": "g_bodenrichtwerte2017",
                             "name": "Bodenrichtwerte 2017",
-			    "visibility": true,
+			    "visibility": false,
                             "children": [ {
                         	"id": "brw_2017_amtlich:234",
                         	"minScale": "2500",
@@ -541,41 +541,8 @@
                             		]
                         	},
               
-				{
-                            "id": "g_bodenrichtwerte2019",
-                            "name": "Bodenrichtwerte 2019",
-			    "visibility": false,
-                            "children": [ {
-                        	"id": "brw_2019_amtlich:234",
-                        	"minScale": "2500",
-                        	"maxScale": "20000"
-                    			},
-                    			{
-                        	"id": "s_brw_2019",
-                        	"minScale": "2500",
-                        	"maxScale": "210000",
-				"styleId": "990009"
-                    			}
-                            		]
-                        	},
+				
               
-				{
-                            "id": "g_bodenrichtwerte2019",
-                            "name": "Bodenrichtwerte 2019",
-			    "visibility": false,
-                            "children": [ {
-                        	"id": "brw_2019_amtlich:234",
-                        	"minScale": "2500",
-                        	"maxScale": "20000"
-                    			},
-                    			{
-                        	"id": "s_brw_2019",
-                        	"minScale": "2500",
-                        	"maxScale": "210000",
-				"styleId": "990009"
-                    			}
-                            		]
-                        	},
               
 				{
                             "id": "g_bodenrichtwerte2020",
