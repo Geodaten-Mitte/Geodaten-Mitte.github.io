@@ -405,6 +405,35 @@
                                     "id": "s_wohnlagenadr2021"                                    
                                 }
                             ]
+                        }
+                       
+                    ]
+                },
+		{
+                    "Titel": "Bodenrichtwerte",
+                    "isFolderSelectable": false,
+                    "visibility": false,
+                    "Layer": [{
+                            "id": "g_bodenrichtwerte2014",
+                            "name": "Bodenrichtwerte 2014",
+                            "children": [{
+                                    "id": "k_wohnlagenadr2021:1"
+                                },
+                                {
+                                    "id": "s_wohnlagenadr2021"                                    
+                                }
+                            ]
+                        },
+			{
+                            "id": "g_bodenrichtwerte2015",
+                            "name": "Bodenrichtwerte 2015",
+                            "children": [{
+                                    "id": "k_wohnlagenadr2021:1"
+                                },
+                                {
+                                    "id": "s_wohnlagenadr2021"                                    
+                                }
+                            ]
                         },
                        
                     ]
