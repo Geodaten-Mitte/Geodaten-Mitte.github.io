@@ -449,7 +449,7 @@
                             "name": "Bodenrichtwerte 2015",
 			    "visibility": true,
                             "children": [ {
-                        "id": "brw_2015_amtlich:3",
+                        "id": "brw_2015_amtlich:234",
                         "minScale": "2500",
                         "maxScale": "20000"
                     },
