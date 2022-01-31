@@ -51,7 +51,7 @@
     {
         "id": "mapfish",
         "name": "Print Service",
-        "url": "/Kombiniert/api/mapfish/print/",
+        "url": "/api/mapfish/print/",
         "typ": "PrintService"
     },
     {
