@@ -3012,6 +3012,31 @@
         "transparent": "True",
         "tilesize": "512",
         "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\"."
+    },
+ {
+        "id": "sanier:1",
+        "name": "Sanierungsgebiete",
+        "name_lang": "Sanierungsgebiete",
+        "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/sanier",
+        "typ": "WMS",
+        "layers": ["1", "2", "5", "4"]
+        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/leg_sanier.png",
+        "datasets": [
+            {
+                "md_id": "a4e9fe6d-8308-38e8-9baa-56d4f22afab5",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/43baafd8-7a27-32cb-ab86-2772ec86348e",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "format": "image/png",
+        "version": "1.3.0",
+        "featureCount": "1",
+        "gfiAttributes": "ignore",
+        "gfiTheme": "default",
+        "transparent": "True",
+        "tilesize": "512",
+        "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\"."
     }
    
     
