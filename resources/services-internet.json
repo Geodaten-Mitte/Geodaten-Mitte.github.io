@@ -2802,7 +2802,7 @@
         "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2015_amtlich",
         "typ": "WMS",
-        "layers": "4,3,2",
+        "layers": "3",
         "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2015.png",
         "datasets": [
             {
@@ -2827,7 +2827,7 @@
         "crs": "http://www.opengis.net/def/crs/EPSG/0/3068",
         "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2014_amtlich",
         "typ": "WMS",
-        "layers": "4,3,2",
+        "layers": "3",
         "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2014.png",
         "datasets": [
             {
