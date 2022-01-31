@@ -398,16 +398,16 @@
                     "isFolderSelectable": false,
                     "visibility": false,
                     "Layer": [{
-                            "id": "g_wohnlagenadr2021",
-                            "name": "Wohnlagenkarte nach Adressen zum Berliner Mietspiegel 2021",
+                            "id": "g_wohnlagenadr2017",
+                            "name": "Wohnlagenkarte nach Adressen zum Berliner Mietspiegel 2017",
                             "children": [{
-                                    "id": "k_wohnlagenadr2021:1"
+                                    "id": "k_wohnlagenadr2017:1"
                                 }
                             ]
                         },
                         {
-                            "id": "g_wohnlagenadr2021",
-                            "name": "Wohnlagenkarte nach Adressen zum Berliner Mietspiegel 2021",
+                            "id": "g_wohnlagenadr2019",
+                            "name": "Wohnlagenkarte nach Adressen zum Berliner Mietspiegel 2019",
                             "children": [{
                                     "id": "k_wohnlagenadr2019:1"
                                 }
@@ -417,7 +417,7 @@
                             "id": "g_wohnlagenadr2021",
                             "name": "Wohnlagenkarte nach Adressen zum Berliner Mietspiegel 2021",
                             "children": [{
-                                    "id": "k_wohnlagenadr2017:1"
+                                    "id": "k_wohnlagenadr2021:1"
                                 }
                             ]
                         }
