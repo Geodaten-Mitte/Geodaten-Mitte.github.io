@@ -425,6 +425,7 @@
                         	"id": "s_brw_2015",
                         	"minScale": "2500",
                         	"maxScale": "210000"
+				"styleId": "990009"		
                     			}
                             		]
                         	},
