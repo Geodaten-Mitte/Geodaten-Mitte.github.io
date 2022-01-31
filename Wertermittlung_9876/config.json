@@ -717,7 +717,12 @@
 		{
                     "id": "sanier:1",
                     "name": "Sanierungsgebiete"                  
-                }
+                },
+		{
+                    "id": "denkmal:5",
+                    "name": "Denkmalkarte Berlin"                  
+                }    
+		    
 		    
 		    
 
