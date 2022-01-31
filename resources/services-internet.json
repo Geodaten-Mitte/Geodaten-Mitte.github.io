@@ -2652,7 +2652,7 @@
         "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2021_amtlich",
         "typ": "WMS",
-        "layers": "4,3,2",
+        "layers": ["4", "3", "2"],
         "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2021.png",
         "datasets": [
             {
@@ -2677,7 +2677,7 @@
         "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2020_amtlich",
         "typ": "WMS",
-        "layers": "4,3,2",
+        "layers": ["4", "3", "2"],
         "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2019.png",
         "datasets": [
             {
@@ -2702,7 +2702,7 @@
         "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2019_amtlich",
         "typ": "WMS",
-        "layers": "4,3,2",
+        "layers": ["4", "3", "2"],
         "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2019.png",
         "datasets": [
             {
@@ -2727,7 +2727,7 @@
         "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2018_amtlich",
         "typ": "WMS",
-        "layers": "4,3,2",
+        "layers": ["4", "3", "2"],
         "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2018.png",
         "datasets": [
             {
@@ -2752,7 +2752,7 @@
         "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2017_amtlich",
         "typ": "WMS",
-       "layers": "4,3,2",
+        "layers": ["4", "3", "2"],
         "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2017.png",
         "datasets": [
             {
@@ -2777,7 +2777,7 @@
         "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2016_amtlich",
         "typ": "WMS",
-       "layers": "4,3,2",
+       "layers": ["4", "3", "2"],
         "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2016.png",
         "datasets": [
             {
@@ -2802,7 +2802,7 @@
         "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2015_amtlich",
         "typ": "WMS",
-        "layers": "3",
+        "layers": ["4", "3", "2"],
         "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2015.png",
         "datasets": [
             {
@@ -2852,7 +2852,7 @@
         "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/k_erhaltgeb",
         "typ": "WMS",
-        "layers": "1,3",
+        "layers": ["1", "3"],
         "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/leg_erhaltgeb.png",
         "datasets": [
             {
@@ -2877,7 +2877,7 @@
         "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/k_erhaltgeb",
         "typ": "WMS",
-        "layers": "2,4",
+        "layers": ["2", "4"],
         "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/leg_erhaltgeb.png",
         "datasets": [
             {
