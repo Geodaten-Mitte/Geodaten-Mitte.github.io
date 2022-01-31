@@ -392,35 +392,21 @@
                 },
 
                 {
-                    "Titel": "Gitternetz",
+                    "Titel": "Wohnlagenkarte",
                     "isFolderSelectable": false,
                     "visibility": false,
                     "Layer": [{
-                            "id": "dop-Gitter_ETRS",
-                            "name": "Nummerierungsbezirk",
+                            "id": "g_wohnlagenadr2021",
+                            "name": "Wohnlagenkarte nach Adressen zum Berliner Mietspiegel 2021",
                             "children": [{
-                                    "id": "Nummerierung_F",
-                                    "styleId": "Nummerierung.fl"
+                                    "id": "k_wohnlagenadr2021:1"
                                 },
                                 {
-                                    "id": "Nummerierung_P",
-                                    "styleId": "Nummerierung.pt"
+                                    "id": "s_wohnlagenadr2021"                                    
                                 }
                             ]
                         },
-                        {
-                            "id": "dop-Gitter_Soldner",
-                            "name": "Kartenblatt",
-                            "children": [{
-                                    "id": "Kartenblatt_L",
-                                    "styleId": "Kartenblatt.li"
-                                },
-                                {
-                                    "id": "Kartenblatt_P",
-                                    "styleId": "Kartenblatt.pt"
-                                }
-                            ]
-                        }
+                       
                     ]
                 },
                 {
@@ -519,32 +505,8 @@
 
 
             ],
-            "Layer": [{
-                    "id": "Neubauten_Neu",
-                    "name": "Neubauvorhaben",
-                    "styleId": "Neub",
-                    "visibility": true,
-                    "mouseHoverField": ["BEREICH"],
-                    "nearbyTitle": "BEREICH",
-                    "searchField": ["BEREICH", "LFD_NR"]
-                },
-
-                {
-                    "id": "Gebaeude_F",
-                    "name": "Gebäude",
-                    "visibility": false,
-                    "styleId": "Gebaeude_F_Style",
-                    "mouseHoverField": ["NAMLAG", "PNR"],
-                    "nearbyTitle": ["NAMLAG", "PNR"]
-                },
-
-                {
-                    "id": "Strassenbefahrung2014",
-                    "name": "Strassenbefahrung 2014",
-                    "visibility": false
-                },
-
-
+            "Layer": [
+                          
                 {
                     "id": "Denkmale_Standbilder_P",
                     "name": "Denkmale_Standbilder",
