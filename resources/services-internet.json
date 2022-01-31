@@ -2006,9 +2006,7 @@
         "legendURL": "/resources/Leg/Legende_B-Plan.png",
         "cache": false,
         "datasets": [{
-            "md_id": "Metadaten_BPlan.xml",
-            "csw_url": "resources/Metadaten/Metadaten_BPlan.xml",
-            "show_doc_url": "resources/Metadaten/"
+            "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
         }]
     },
     {
