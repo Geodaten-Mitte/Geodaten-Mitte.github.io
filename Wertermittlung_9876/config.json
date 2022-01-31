@@ -417,10 +417,10 @@
                             "id": "g_bodenrichtwerte2014",
                             "name": "Bodenrichtwerte 2014",
                             "children": [{
-                                    "id": "k_wohnlagenadr2021:1"
+                                    "id": "brw_2014_amtlich:234"
                                 },
                                 {
-                                    "id": "s_wohnlagenadr2021"                                    
+                                    "id": "s_brw_2014"                                    
                                 }
                             ]
                         },
@@ -428,10 +428,10 @@
                             "id": "g_bodenrichtwerte2015",
                             "name": "Bodenrichtwerte 2015",
                             "children": [{
-                                    "id": "k_wohnlagenadr2021:1"
+                                    "id": "brw_2015_amtlich:234"
                                 },
                                 {
-                                    "id": "s_wohnlagenadr2021"                                    
+                                    "id": "s_brw_2015"                                    
                                 }
                             ]
                         },
