@@ -2515,8 +2515,7 @@
         "name": "Bodenrichtwerte 01.01.2015",
         "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2015",
-        "typ": "WFS",
-        "version": "2.0.0",
+        "typ": "WFS",        
         "featureType": "fis:s_brw_2015",
         "datasets": [
             {
@@ -2533,8 +2532,7 @@
         "name": "Bodenrichtwerte 01.01.2016",
         "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2016",
-        "typ": "WFS",
-        "version": "2.0.0",
+        "typ": "WFS",     
         "featureType": "fis:s_brw_2016",
         "datasets": [
             {
