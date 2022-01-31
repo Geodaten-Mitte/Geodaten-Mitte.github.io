@@ -423,6 +423,30 @@
                         }
                     ]
                 },
+		      
+		  {
+                    "Titel": "Erhaltungsverordnungsgebiete § 172 BauGB",
+                    "isFolderSelectable": false,
+                    "visibility": false,
+                    "Layer": [{
+                            "id": "g_erhaltgeb:1",
+                            "name": "Erhaltung der städtebaulichen Eigenart",
+                            "children": [{
+                                    "id": "k_erhaltgeb:1"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "g_erhaltgeb:2",
+                            "name": "Erhaltung der Zusammensetzung der Wohnbevölkerung",
+                            "children": [{
+                                    "id": "k_erhaltgeb:2"
+                                }
+                            ]
+                        }
+                    ]
+                },
+		       
 		{
                     "Titel": "Bodenrichtwerte",
                     "isFolderSelectable": false,                    
