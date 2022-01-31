@@ -642,14 +642,7 @@
             ],
             "Layer": [
                           
-                {
-                    "id": "Denkmale_Standbilder_P",
-                    "name": "Denkmale_Standbilder",
-                    "visibility": false,
-                    "styleId": "Denkmale_Standbilder_PKT",
-                    "mouseHoverField": ["Name"],
-                    "nearbyTitle": "Name"
-                },
+                
 
                 {
                     "id": "B-Plan",
@@ -684,53 +677,6 @@
                             "styleId": "Schulen.tx"
                         }
                     ]
-                },
-                {
-                    "id": "Parkraumbew",
-                    "name": "Parkraumbewirtschaftung",
-                    "visibility": false,
-                    "children": [{
-                            "id": "Gebuehrenzone_F",
-                            "name": "Parkzone",
-                            "styleId": "Gebührenzone_F_Style",
-                            "mouseHoverField": ["ZEITEN"],
-                            "nearbyTitle": "ZEITEN"
-                        },
-                        {
-                            "id": "Parkzone_T",
-                            "minScale": "5000",
-                            "maxScale": "210000",
-                            "styleId": "Parkzone_T_Style"
-                        },
-                        {
-                            "id": "Parkzone_L",
-                            "styleId": "Parkzone_L_Style"
-                        }
-                    ]
-                },
-
-                {
-                    "id": "Postleit",
-                    "name": "Postleitzahlen",
-                    "visibility": false,
-                    "minScale": "0",
-                    "maxScale": "100000"
-                },
-
-                {
-                    "id": "Citytoiletten_P",
-                    "name": "Citytoiletten",
-                    "visibility": false,
-                    "styleId": "Citytoiletten_PKT",
-                    "mouseHoverField": ["StandortBezeichnung"],
-                    "nearbyTitle": "StandortBezeichnung"
-                },
-
-                {
-                    "id": "Verkehrslage",
-                    "name": "Verkehrslage",
-                    "visibility": false,
-                    "autoRefresh": "300000"
                 }
 
 
