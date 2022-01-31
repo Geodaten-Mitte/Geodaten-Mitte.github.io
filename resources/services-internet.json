@@ -2509,29 +2509,14 @@
     },
 
 
-{
-        "id": "s_brw_2014",
-        "name": "Bodenrichtwerte 01.01.2014",
-        "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
-        "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2014",
-        "typ": "WFS",
-        "featureType": "fis:s_brw_2014",
-        "datasets": [
-            {
-                "md_id": "264e9ed7-ceee-3323-91e4-25fd916295f4",
-                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/aeb1d9df-7172-375a-b41b-f15825a7848d",
-                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
-            }
-        ],
-        "featureNS": "http://www.berlin.de/broker",
-        "gfiAttributes": "showAll"
-    },
+
     {
         "id": "s_brw_2015",
         "name": "Bodenrichtwerte 01.01.2015",
         "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2015",
         "typ": "WFS",
+        "version": "2.0.0",
         "featureType": "fis:s_brw_2015",
         "datasets": [
             {
@@ -2549,6 +2534,7 @@
         "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2016",
         "typ": "WFS",
+        "version": "2.0.0",
         "featureType": "fis:s_brw_2016",
         "datasets": [
             {
