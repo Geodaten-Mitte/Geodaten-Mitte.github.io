@@ -411,11 +411,11 @@
                 },
 		{
                     "Titel": "Bodenrichtwerte",
-                    "isFolderSelectable": false,
-                    "visibility": false,
+                    "isFolderSelectable": false,                    
                     "Layer": [{
                             "id": "g_bodenrichtwerte2014",
                             "name": "Bodenrichtwerte 2014",
+			    "visibility": false,
                             "children": [{
                                     "id": "brw_2014_amtlich:234"
                                 },
@@ -427,6 +427,7 @@
 			{
                             "id": "g_bodenrichtwerte2015",
                             "name": "Bodenrichtwerte 2015",
+			    "visibility": true,
                             "children": [{
                                     "id": "brw_2015_amtlich:234"
                                 },
