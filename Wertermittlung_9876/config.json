@@ -440,7 +440,9 @@
                             		"BEITRAGSZUSTAND": "Beitragszustand",
                             		"LUMNUM": "GFZ-Umrechnungskoeffizienten"
                         			}
-                    		},
+                    		}
+			]
+		    },
               
 				{
                             "id": "g_bodenrichtwerte2015",
