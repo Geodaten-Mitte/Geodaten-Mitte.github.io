@@ -184,6 +184,66 @@
                             }
                         ]
                     },
+			 "layerSlider": {
+                        "name": "Bodenrichtwerte 2015-2021",
+                        "glyphicon": "glyphicon-film",
+                        "title": "Bodenrichtwerte 2015-2021",
+                        "sliderType": "player",
+                        "timeInterval": 8000,
+                        "layerIds": [{
+                                "title": "2004",
+                                "layerId": "luftbild2004:0"
+                            },
+                            {
+                                "title": "2007",
+                                "layerId": "k_luftbild2007:0"
+                            },
+                            {
+                                "title": "2009",
+                                "layerId": "k_luftbild2009_20:0"
+                            },
+                            {
+                                "title": "2010",
+                                "layerId": "k_luftbild2010_rgb:0"
+                            },
+                            {
+                                "title": "2011",
+                                "layerId": "k_luftbild2011_20:0"
+                            },
+                            {
+                                "title": "2014",
+                                "layerId": "k_luftbild2014:0"
+                            },
+                            {
+                                "title": "2015",
+                                "layerId": "k_luftbild2015_rgb:0"
+                            },
+                            {
+                                "title": "2016",
+                                "layerId": "k_luftbild2016_rgb:0"
+                            },
+                            {
+                                "title": "2017",
+                                "layerId": "k_luftbild2017_rgb:0"
+                            },
+                            {
+                                "title": "2018",
+                                "layerId": "k_luftbild2018_rgb:0"
+                            },
+                            {
+                                "title": "2019",
+                                "layerId": "k_luftbild2019_rgb:0"
+                            },
+                            {
+                                "title": "2020",
+                                "layerId": "k_luftbild2020_rgb:0"
+                            },
+                            {
+                                "title": "2021",
+                                "layerId": "k_luftbild2021_rgb:0"
+                            }
+                        ]
+                    }
 
                     "print": {
                         "name": "Drucken",
