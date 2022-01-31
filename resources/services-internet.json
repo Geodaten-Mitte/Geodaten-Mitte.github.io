@@ -2506,9 +2506,437 @@
         "transparent": "True",
         "tilesize": "512",
         "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\"."
+    },
+
+
+{
+        "id": "s_brw_2014",
+        "name": "Bodenrichtwerte 01.01.2014",
+        "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2014",
+        "typ": "WFS",
+        "featureType": "fis:s_brw_2014",
+        "datasets": [
+            {
+                "md_id": "264e9ed7-ceee-3323-91e4-25fd916295f4",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/aeb1d9df-7172-375a-b41b-f15825a7848d",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "featureNS": "http://www.berlin.de/broker",
+        "gfiAttributes": "showAll"
+    },
+    {
+        "id": "s_brw_2015",
+        "name": "Bodenrichtwerte 01.01.2015",
+        "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2015",
+        "typ": "WFS",
+        "featureType": "fis:s_brw_2015",
+        "datasets": [
+            {
+                "md_id": "e16d9ad0-2811-3665-b554-5426b442e209",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/96b520ce-7996-3012-b657-5c676c37b22a",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "featureNS": "http://www.berlin.de/broker",
+        "gfiAttributes": "showAll"
+    },
+    {
+        "id": "s_brw_2016",
+        "name": "Bodenrichtwerte 01.01.2016",
+        "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2016",
+        "typ": "WFS",
+        "featureType": "fis:s_brw_2016",
+        "datasets": [
+            {
+                "md_id": "460a8256-516e-3fb1-9c42-aa5b26f7e9a2",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/51da261c-248b-336a-8344-587903f76874",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "featureNS": "http://www.berlin.de/broker",
+        "gfiAttributes": "showAll"
+    },
+    {
+        "id": "s_brw_2017",
+        "name": "Bodenrichtwerte 01.01.2017",
+        "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2017",
+        "typ": "WFS",
+        "featureType": "fis:s_brw_2017",
+        "datasets": [
+            {
+                "md_id": "747d6271-0b82-357d-b0b4-aae64bebf505",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/3b574802-be4e-38e1-a465-b81770da1e34",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "featureNS": "http://www.berlin.de/broker",
+        "gfiAttributes": "showAll"
+    },
+    {
+        "id": "s_brw_2018",
+        "name": "Bodenrichtwerte 01.01.2018",
+        "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2018",
+        "typ": "WFS",
+        "featureType": "fis:s_brw_2018",
+        "datasets": [
+            {
+                "md_id": "8a584aeb-ef99-3137-bb11-715e59b51686",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/02c8e23b-7771-34e8-a550-a49b69f0d5d9",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "featureNS": "http://www.berlin.de/broker",
+        "gfiAttributes": "showAll"
+    },
+    {
+        "id": "s_brw_2019",
+        "name": "Bodenrichtwerte 01.01.2019",
+        "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2019",
+        "typ": "WFS",
+        "featureType": "fis:s_brw_2019",
+        "datasets": [
+            {
+                "md_id": "69ac5522-b775-3e77-bad1-a24d86c8e156",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/e00ba16e-5daa-378e-bd71-4a98ba28ed5d",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "featureNS": "http://www.berlin.de/broker",
+        "gfiAttributes": "showAll"
+    },
+    {
+        "id": "s_brw_2020",
+        "name": "Bodenrichtwerte 01.01.2020",
+        "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2020",
+        "typ": "WFS",
+        "featureType": "fis:s_brw_2020",
+        "datasets": [
+            {
+                "md_id": "b6a568c2-8254-332a-bbc2-002a4ced82c1",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/122a383a-4615-3752-a0dc-b7030351df38",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "featureNS": "http://www.berlin.de/broker",
+        "gfiAttributes": "showAll"
+    },
+    {
+        "id": "s_brw_2021",
+        "name": "Bodenrichtwerte 01.01.2021",
+        "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2021",
+        "typ": "WFS",
+        "featureType": "fis:s_brw_2021",
+        "datasets": [
+            {
+                "md_id": "d1a3c991-68af-32f0-9959-9da93eebdc14",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/d80af355-6705-3438-bfba-936a970cb74b",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "featureNS": "http://www.berlin.de/broker",
+        "gfiAttributes": "showAll"
+    },
+  {
+        "id": "brw_2021_amtlich:234",
+        "name": "Bodenrichtwerte",
+        "name_lang": "Bodenrichtwerte(Bodenrichtwerte 01.01.2021)",
+        "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2021_amtlich",
+        "typ": "WMS",
+        "layers": "4,3,2",
+        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2021.png",
+        "datasets": [
+            {
+                "md_id": "6e5bada5-8e80-33d0-bd53-472f1887ddba",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/d80af355-6705-3438-bfba-936a970cb74b",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "format": "image/png",
+        "version": "1.3.0",
+        "featureCount": "1",
+        "gfiAttributes": "ignore",
+        "gfiTheme": "default",
+        "transparent": "True",
+        "tilesize": "512",
+        "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\" oder \"Gutachterausschuss für Grundstückswerte in Berlin\"."
+    },
+ {
+        "id": "brw_2020_amtlich:234",
+        "name": "Bodenrichtwerte",
+        "name_lang": "Bodenrichtwerte(Bodenrichtwerte 01.01.2020)",
+        "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2020_amtlich",
+        "typ": "WMS",
+        "layers": "4,3,2",
+        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2019.png",
+        "datasets": [
+            {
+                "md_id": "598c01c4-169a-30e8-8bb3-dc9a7e22631d",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/122a383a-4615-3752-a0dc-b7030351df38",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "format": "image/png",
+        "version": "1.3.0",
+        "featureCount": "1",
+        "gfiAttributes": "ignore",
+        "gfiTheme": "default",
+        "transparent": "True",
+        "tilesize": "512",
+        "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\" oder \"Gutachterausschuss für Grundstückswerte in Berlin\"."
+    },
+{
+        "id": "brw_2019_amtlich:234",
+        "name": "Bodenrichtwerte",
+        "name_lang": "Bodenrichtwerte(Bodenrichtwerte 01.01.2019)",
+        "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2019_amtlich",
+        "typ": "WMS",
+        "layers": "4,3,2",
+        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2019.png",
+        "datasets": [
+            {
+                "md_id": "725488dd-79c0-3e46-9d30-5c5530aff403",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/e00ba16e-5daa-378e-bd71-4a98ba28ed5d",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "format": "image/png",
+        "version": "1.3.0",
+        "featureCount": "1",
+        "gfiAttributes": "ignore",
+        "gfiTheme": "default",
+        "transparent": "True",
+        "tilesize": "512",
+        "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\" oder \"Gutachterausschuss für Grundstückswerte in Berlin\"."
+    },
+  {
+        "id": "brw_2018_amtlich:234",
+        "name": "Bodenrichtwerte",
+        "name_lang": "Bodenrichtwerte(Bodenrichtwerte 01.01.2018)",
+        "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2018_amtlich",
+        "typ": "WMS",
+        "layers": "4,3,2",
+        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2018.png",
+        "datasets": [
+            {
+                "md_id": "91f37905-42b9-3bcc-8bfc-770e30d249df",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/02c8e23b-7771-34e8-a550-a49b69f0d5d9",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "format": "image/png",
+        "version": "1.3.0",
+        "featureCount": "1",
+        "gfiAttributes": "ignore",
+        "gfiTheme": "default",
+        "transparent": "True",
+        "tilesize": "512",
+        "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\" oder \"Gutachterausschuss für Grundstückswerte in Berlin\"."
+    }, 
+ {
+        "id": "brw_2017_amtlich:234",
+        "name": "Bodenrichtwerte",
+        "name_lang": "Bodenrichtwerte(Bodenrichtwerte 01.01.2017)",
+        "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2017_amtlich",
+        "typ": "WMS",
+       "layers": "4,3,2",
+        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2017.png",
+        "datasets": [
+            {
+                "md_id": "3f0fd054-6182-318f-a16a-8292c1095e78",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/3b574802-be4e-38e1-a465-b81770da1e34",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "format": "image/png",
+        "version": "1.3.0",
+        "featureCount": "1",
+        "gfiAttributes": "ignore",
+        "gfiTheme": "default",
+        "transparent": "True",
+        "tilesize": "512",
+        "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\" oder \"Gutachterausschuss für Grundstückswerte in Berlin\"."
+    },
+  {
+        "id": "brw_2016_amtlich:234",
+        "name": "Bodenrichtwerte",
+        "name_lang": "Bodenrichtwerte(Bodenrichtwerte 01.01.2016)",
+        "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2016_amtlich",
+        "typ": "WMS",
+       "layers": "4,3,2",
+        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2016.png",
+        "datasets": [
+            {
+                "md_id": "b1627d8f-064b-3488-94b5-399390331765",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/51da261c-248b-336a-8344-587903f76874",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "format": "image/png",
+        "version": "1.3.0",
+        "featureCount": "1",
+        "gfiAttributes": "ignore",
+        "gfiTheme": "default",
+        "transparent": "True",
+        "tilesize": "512",
+        "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\" oder \"Gutachterausschuss für Grundstückswerte in Berlin\"."
+    },
+  {
+        "id": "brw_2015_amtlich:234",
+        "name": "Bodenrichtwerte",
+        "name_lang": "Bodenrichtwerte(Bodenrichtwerte 01.01.2015)",
+        "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2015_amtlich",
+        "typ": "WMS",
+        "layers": "4,3,2",
+        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2015.png",
+        "datasets": [
+            {
+                "md_id": "a1eada85-e644-30a6-8f37-41cd87eded2e",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/96b520ce-7996-3012-b657-5c676c37b22a",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "format": "image/png",
+        "version": "1.3.0",
+        "featureCount": "1",
+        "gfiAttributes": "ignore",
+        "gfiTheme": "default",
+        "transparent": "True",
+        "tilesize": "512",
+        "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\" oder \"Gutachterausschuss für Grundstückswerte in Berlin\"."
+    },
+ {
+        "id": "brw_2014_amtlich:234",
+        "name": "Bodenrichtwerte",
+        "name_lang": "Bodenrichtwerte(Bodenrichtwerte 01.01.2014)",
+        "crs": "http://www.opengis.net/def/crs/EPSG/0/3068",
+        "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/brw_2014_amtlich",
+        "typ": "WMS",
+        "layers": "4,3,2",
+        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/brw/leg_brw2014.png",
+        "datasets": [
+            {
+                "md_id": "765b4646-b878-3b82-bbaa-d2432104f829",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/aeb1d9df-7172-375a-b41b-f15825a7848d",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "format": "image/png",
+        "version": "1.3.0",
+        "featureCount": "1",
+        "gfiAttributes": "ignore",
+        "gfiTheme": "default",
+        "transparent": "True",
+        "tilesize": "512",
+        "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\" oder \"Gutachterausschuss für Grundstückswerte in Berlin\"."
+    },
+ {
+        "id": "k_erhaltgeb:1",
+        "name": "Erhaltung der städtebaulichen Eigenart",
+        "name_lang": "Erhaltung der städtebaulichen Eigenart(Erhaltungsverordnungsgebiete § 172 BauGB)",
+        "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/k_erhaltgeb",
+        "typ": "WMS",
+        "layers": "1,3",
+        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/leg_erhaltgeb.png",
+        "datasets": [
+            {
+                "md_id": "6949b4ff-70f3-30a2-a7d6-a8505e48699d",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/5d8956b5-3dc1-3bb3-8ca8-598ff3412f03",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "format": "image/png",
+        "version": "1.3.0",
+        "featureCount": "1",
+        "gfiAttributes": "ignore",
+        "gfiTheme": "default",
+        "transparent": "True",
+        "tilesize": "512",
+        "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\"."
+    },
+    {
+        "id": "k_erhaltgeb:2",
+        "name": "Erhaltung der Zusammensetzung der Wohnbevölkerung",
+        "name_lang": "Erhaltung der Zusammensetzung der Wohnbevölkerung(Erhaltungsverordnungsgebiete § 172 BauGB)",
+        "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/k_erhaltgeb",
+        "typ": "WMS",
+        "layers": "2,4",
+        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/leg_erhaltgeb.png",
+        "datasets": [
+            {
+                "md_id": "6949b4ff-70f3-30a2-a7d6-a8505e48699d",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/5d8956b5-3dc1-3bb3-8ca8-598ff3412f03",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "format": "image/png",
+        "version": "1.3.0",
+        "featureCount": "1",
+        "gfiAttributes": "ignore",
+        "gfiTheme": "default",
+        "transparent": "True",
+        "tilesize": "512",
+        "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\"."
+    },
+     {
+        "id": "s_wohnlagenadr2021",
+        "name": "Wohnlagen nach Adressen zum Berliner Mietspiegel 2021",
+        "crs": "urn:ogc:def:crs:EPSG:6.9:25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_wohnlagenadr2021",
+        "typ": "WFS",
+        "featureType": "fis:s_wohnlagenadr2021",
+        "datasets": [
+            {
+                "md_id": "119c4abb-d4b6-382f-aea3-35e91e40745c",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/0461965f-ef91-3b0c-a934-a2b4b18bdbf6",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "featureNS": "http://www.berlin.de/broker",
+        "gfiAttributes": "showAll"
+    },
+    {
+        "id": "k_wohnlagenadr2021:1",
+        "name": "Darstellung der Wohnlagenzuordnung als Bestandteil des Berliner Mietspiegels",
+        "name_lang": "Darstellung der Wohnlagenzuordnung als Bestandteil des Berliner Mietspiegels(Wohnlagenkarte nach Adressen zum Berliner Mietspiegel 2021)",
+        "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/k_wohnlagenadr2021",
+        "typ": "WMS",
+        "layers": "1",
+        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/leg_wohnlagenadr2019.png",
+        "datasets": [
+            {
+                "md_id": "37a06e21-43ac-30f6-9e5e-052d7c7ecaf6",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/0461965f-ef91-3b0c-a934-a2b4b18bdbf6",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "format": "image/png",
+        "version": "1.3.0",
+        "featureCount": "1",
+        "gfiAttributes": "ignore",
+        "gfiTheme": "default",
+        "transparent": "True",
+        "tilesize": "512",
+        "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\"."
     }
-
-
-
-
+   
+    
 ]
