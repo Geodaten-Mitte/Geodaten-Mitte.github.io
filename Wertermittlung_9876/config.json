@@ -527,7 +527,7 @@
 				{
                             "id": "g_bodenrichtwerte2021",
                             "name": "Bodenrichtwerte 2021",
-			    "visibility": false,
+			    "visibility": true,
                             "children": [ {
                         	"id": "brw_2021_amtlich:234",
                         	"minScale": "2500",
