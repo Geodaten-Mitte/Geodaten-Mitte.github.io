@@ -2959,6 +2959,56 @@
         "transparent": "True",
         "tilesize": "512",
         "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\"."
+    },
+ {
+        "id": "k_wohnlagenadr2017:1",
+        "name": "Darstellung der Wohnlagenzuordnung als Bestandteil des Berliner Mietspiegels",
+        "name_lang": "Darstellung der Wohnlagenzuordnung als Bestandteil des Berliner Mietspiegels(Wohnlagenkarte nach Adressen zum Berliner Mietspiegel 2017)",
+        "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/k_wohnlagenadr2017",
+        "typ": "WMS",
+        "layers": "1",
+        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/leg_wohnlagenadr2017.png",
+        "datasets": [
+            {
+                "md_id": "58bed7e6-cbbf-3bfd-8400-ee3395bd7ef1",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/12a2a97f-39da-3e5d-bc23-6ee75be9138d",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "format": "image/png",
+        "version": "1.3.0",
+        "featureCount": "1",
+        "gfiAttributes": "ignore",
+        "gfiTheme": "default",
+        "transparent": "True",
+        "tilesize": "512",
+        "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\"."
+    },
+    {
+        "id": "k_wohnlagenadr2019:1",
+        "name": "Darstellung der Wohnlagenzuordnung als Bestandteil des Berliner Mietspiegels",
+        "name_lang": "Darstellung der Wohnlagenzuordnung als Bestandteil des Berliner Mietspiegels(Wohnlagenkarte nach Adressen zum Berliner Mietspiegel 2019)",
+        "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
+        "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/k_wohnlagenadr2019",
+        "typ": "WMS",
+        "layers": "1",
+        "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/leg_wohnlagenadr2019.png",
+        "datasets": [
+            {
+                "md_id": "06a10752-863a-37d4-b83c-a9646670a9bf",
+                "rs_id": "https://registry.gdi-de.org/id/de.be.csw/ef3ec1a8-e638-307f-843e-36d490d5dde3",
+                "csw_url": "https://fbinter.stadt-berlin.de/fb/csw"
+            }
+        ],
+        "format": "image/png",
+        "version": "1.3.0",
+        "featureCount": "1",
+        "gfiAttributes": "ignore",
+        "gfiTheme": "default",
+        "transparent": "True",
+        "tilesize": "512",
+        "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\"."
     }
    
     
