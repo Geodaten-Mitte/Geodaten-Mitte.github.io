@@ -191,12 +191,12 @@
                         "sliderType": "player",
                         "timeInterval": 8000,
                         "layerIds": [{
-                                "title": "2004",
-                                "layerId": "luftbild2004:0"
+                                "title": "2014",
+                                "layerId": "g_bodenrichtwerte2015"
                             },
                             {
-                                "title": "2007",
-                                "layerId": "k_luftbild2007:0"
+                                "title": "2016",
+                                "layerId": "g_bodenrichtwerte2016"
                             },
                             {
                                 "title": "2009",
