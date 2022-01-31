@@ -2525,7 +2525,16 @@
             }
         ],
         "featureNS": "http://www.berlin.de/broker",
-        "gfiAttributes": "showAll"
+        "gfiAttributes": {
+            "gemeinde": "Stadt",
+            "bezirk": "Bezirk",
+            "brw": "Bodenrichtwert",
+            "nutzung": "Nutzungsart",
+            "gfz": "GFZ",
+            "stichtag": "Stichtag",
+            "beitragszustand": "Beitragszustand",
+            "lumnum": "GFZ-Umrechnungskoeffizienten"
+        }
     },
     {
         "id": "s_brw_2016",
@@ -2542,7 +2551,16 @@
             }
         ],
         "featureNS": "http://www.berlin.de/broker",
-        "gfiAttributes": "showAll"
+        "gfiAttributes": {
+            "gemeinde": "Stadt",
+            "bezirk": "Bezirk",
+            "brw": "Bodenrichtwert",
+            "nutzung": "Nutzungsart",
+            "gfz": "GFZ",
+            "stichtag": "Stichtag",
+            "beitragszustand": "Beitragszustand",
+            "lumnum": "GFZ-Umrechnungskoeffizienten"
+        }
     },
     {
         "id": "s_brw_2017",
@@ -2559,7 +2577,16 @@
             }
         ],
         "featureNS": "http://www.berlin.de/broker",
-        "gfiAttributes": "showAll"
+        "gfiAttributes": {
+            "gemeinde": "Stadt",
+            "bezirk": "Bezirk",
+            "brw": "Bodenrichtwert",
+            "nutzung": "Nutzungsart",
+            "gfz": "GFZ",
+            "stichtag": "Stichtag",
+            "beitragszustand": "Beitragszustand",
+            "lumnum": "GFZ-Umrechnungskoeffizienten"
+        }
     },
     {
         "id": "s_brw_2018",
@@ -2576,7 +2603,16 @@
             }
         ],
         "featureNS": "http://www.berlin.de/broker",
-        "gfiAttributes": "showAll"
+        "gfiAttributes": {
+            "gemeinde": "Stadt",
+            "bezirk": "Bezirk",
+            "brw": "Bodenrichtwert",
+            "nutzung": "Nutzungsart",
+            "gfz": "GFZ",
+            "stichtag": "Stichtag",
+            "beitragszustand": "Beitragszustand",
+            "lumnum": "GFZ-Umrechnungskoeffizienten"
+        }
     },
     {
         "id": "s_brw_2019",
@@ -2593,7 +2629,16 @@
             }
         ],
         "featureNS": "http://www.berlin.de/broker",
-        "gfiAttributes": "showAll"
+        "gfiAttributes": {
+            "gemeinde": "Stadt",
+            "bezirk": "Bezirk",
+            "brw": "Bodenrichtwert",
+            "nutzung": "Nutzungsart",
+            "gfz": "GFZ",
+            "stichtag": "Stichtag",
+            "beitragszustand": "Beitragszustand",
+            "lumnum": "GFZ-Umrechnungskoeffizienten"
+        }
     },
     {
         "id": "s_brw_2020",
@@ -2610,7 +2655,16 @@
             }
         ],
         "featureNS": "http://www.berlin.de/broker",
-        "gfiAttributes": "showAll"
+        "gfiAttributes": {
+            "gemeinde": "Stadt",
+            "bezirk": "Bezirk",
+            "brw": "Bodenrichtwert",
+            "nutzung": "Nutzungsart",
+            "gfz": "GFZ",
+            "stichtag": "Stichtag",
+            "beitragszustand": "Beitragszustand",
+            "lumnum": "GFZ-Umrechnungskoeffizienten"
+        }
     },
     {
         "id": "s_brw_2021",
@@ -2627,7 +2681,16 @@
             }
         ],
         "featureNS": "http://www.berlin.de/broker",
-        "gfiAttributes": "showAll"
+        "gfiAttributes": {
+            "gemeinde": "Stadt",
+            "bezirk": "Bezirk",
+            "brw": "Bodenrichtwert",
+            "nutzung": "Nutzungsart",
+            "gfz": "GFZ",
+            "stichtag": "Stichtag",
+            "beitragszustand": "Beitragszustand",
+            "lumnum": "GFZ-Umrechnungskoeffizienten"
+        }
     },
   {
         "id": "brw_2021_amtlich:234",
