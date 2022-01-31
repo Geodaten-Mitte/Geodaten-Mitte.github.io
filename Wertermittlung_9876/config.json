@@ -230,10 +230,7 @@
         },
         "controls": {
             "fullScreen": true,
-            "zoom": true,
-            "orientation": {
-                "zoomMode": "always"
-            },
+            "zoom": true,            
             "attributions": {
                 "isInitOpenDesktop": false,
                 "isInitOpenMobile": false
