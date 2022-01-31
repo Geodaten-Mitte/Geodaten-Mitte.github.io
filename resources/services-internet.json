@@ -2004,7 +2004,12 @@
         },
         "layerAttribution": "Bebauungspläne im Bezirk Mitte (Stand 08.2021)",
         "legendURL": "/resources/Leg/Legende_B-Plan.png",
-        "cache": false
+        "cache": false,
+        "datasets": [{
+            "md_id": "Metadaten_BPlan.xml",
+            "csw_url": "resources/Metadaten/Metadaten_BPlan.xml",
+            "show_doc_url": "resources/Metadaten/"
+        }]
     },
     {
         "id": "B-Plan_L",
