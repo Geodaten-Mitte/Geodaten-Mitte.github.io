@@ -3020,7 +3020,7 @@
         "crs": "http://www.opengis.net/def/crs/EPSG/0/25833",
         "url": "https://fbinter.stadt-berlin.de/fb/wms/senstadt/sanier",
         "typ": "WMS",
-        "layers": ["1", "2", "5", "4"],
+        "layers": ["1", "2", "5", "4", "0"],
         "legend": "https://fbinter.stadt-berlin.de/fb_daten/legenden/leg_sanier.png",
         "datasets": [
             {
