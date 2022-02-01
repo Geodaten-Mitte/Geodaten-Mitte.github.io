@@ -1,7 +1,7 @@
 {
     "Portalconfig": {
         "portalTitle": {
-            "title": "Vermessung Berlin Mitte",
+            "title": "Wertermittlung Berlin Mitte",
             "logo": "../resources/img/Wappen.png",
             "link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/stadtentwicklungsamt/kataster-und-vermessung/",
             "tooltip": "Bezirksamt Mitte, FB Vermessung"
