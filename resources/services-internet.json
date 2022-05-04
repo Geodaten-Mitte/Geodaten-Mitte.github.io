@@ -1930,12 +1930,13 @@
             "WIEDERVORL": "Wiedervorlage am",
             "AUFGEFORDE": "Aufgefordert",
             "OEBVI_AUFT": "ÖVI Auftrag",
-            "OEBVI_EING": "Messung eingereicht"
+            "OEBVI_EING": "Messung eingereicht",
+            "URL": "Link"
 
 
         },
         "legendURL": "/resources/Leg/Legende_Neubauten.png",
-        "layerAttribution": "Neubauvorhaben im Bezirk Mitte (Stand 01.09.2021)",
+        "layerAttribution": "Neubauvorhaben im Bezirk Mitte (Stand 04.05.2022)",
         "cache": false
     },
     {
