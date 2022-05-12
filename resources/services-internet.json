@@ -3063,7 +3063,170 @@
         "transparent": "True",
         "tilesize": "512",
         "layerAttribution": "Für die Nutzung der Daten ist die  Datenlizenz Deutschland - Namensnennung - Version 2.0 anzuwenden. Die Lizenz ist über https://www.govdata.de/dl-de/by-2-0 abrufbar. Der Quellenvermerk gemäß (2)  der Lizenz lautet \"Geoportal Berlin / [Titel des Datensatzes]\"."
+    },
+{
+	"id": "Blockakte",
+	"name": "Blockakte",
+	"url": "/resources/geojson/Blockakte.geojson",
+	"typ": "GeoJSON",
+	"gfiTheme": "default",
+	"gfiAttributes": {
+		"NAME": "Name",
+		"STATISTISC": "Statistisches Gebiet",
+		"STATISTI_2": "Statistisches Block",
+		"GEMARKUNG": "Gemarkung",
+		"DATUM_DER_": "Datum der Forführung",
+		"URL": "URL",
+		"DATEI": "Datei"		
+	},
+	"legendURL": "ignore",
+	"layerAttribution": "Blockakte Digitalisiert (Stand 09.05.2022)",
+	"cache": false
+},
+{
+	"id": "Blockakte_Abriss",
+	"name": "Blockakte_Abriss",
+	"url": "/resources/geojson/Blockakte.geojson",
+	"typ": "GeoJSON",
+	"gfiTheme": "default",
+	"gfiAttributes": {
+		"NAME": "Name",
+		"STATISTISC": "Statistisches Gebiet",
+		"STATISTI_2": "Statistisches Block",
+		"GEMARKUNG": "Gemarkung",
+		"DATUM_DER_": "Datum der Forführung",
+		"URL": "URL",
+		"DATEI": "Datei"		
+	},
+	"legendURL": "ignore",
+	"layerAttribution": "Blockakte Digitalisiert (Stand 09.05.2022)",
+	"cache": false
+},
+{
+	"id": "Blockakte_Gebäude",
+	"name": "Blockakte_Gebäude",
+	"url": "/resources/geojson/Blockakte.geojson",
+	"typ": "GeoJSON",
+	"gfiTheme": "default",
+	"gfiAttributes": {
+		"NAME": "Name",
+		"STATISTISC": "Statistisches Gebiet",
+		"STATISTI_2": "Statistisches Block",
+		"GEMARKUNG": "Gemarkung",
+		"DATUM_DER_": "Datum der Forführung",
+		"URL": "URL",
+		"DATEI": "Datei"		
+	},
+	"legendURL": "ignore",
+	"layerAttribution": "Blockakte Digitalisiert (Stand 09.05.2022)",
+	"cache": false
+},
+{
+	"id": "Blockakte_VS_HGN",
+	"name": "Blockakte_VS_HGN",
+	"url": "/resources/geojson/Blockakte.geojson",
+	"typ": "GeoJSON",
+	"gfiTheme": "default",
+	"gfiAttributes": {
+		"NAME": "Name",
+		"STATISTISC": "Statistisches Gebiet",
+		"STATISTI_2": "Statistisches Block",
+		"GEMARKUNG": "Gemarkung",
+		"DATUM_DER_": "Datum der Forführung",
+		"URL": "URL",
+		"DATEI": "Datei"		
+	},
+	"legendURL": "ignore",
+	"layerAttribution": "Blockakte Digitalisiert (Stand 09.05.2022)",
+	"cache": false
+},
+{
+	"id": "Blockakte_Sonstiges",
+	"name": "Blockakte_Sonstiges",
+	"url": "/resources/geojson/Blockakte.geojson",
+	"typ": "GeoJSON",
+	"gfiTheme": "default",
+	"gfiAttributes": {
+		"NAME": "Name",
+		"STATISTISC": "Statistisches Gebiet",
+		"STATISTI_2": "Statistisches Block",
+		"GEMARKUNG": "Gemarkung",
+		"DATUM_DER_": "Datum der Forführung",
+		"URL": "URL",
+		"DATEI": "Datei"		
+	},
+	"legendURL": "ignore",
+	"layerAttribution": "Blockakte Digitalisiert (Stand 09.05.2022)",
+	"cache": false
+},
+{
+	"id": "Blockakte_Feldvergleich",
+	"name": "Blockakte_Feldvergleich",
+	"url": "/resources/geojson/Blockakte.geojson",
+	"typ": "GeoJSON",
+	"gfiTheme": "default",	
+	"gfiAttributes": {
+		"NAME": "Name",
+		"STATISTISC": "Statistisches Gebiet",
+		"STATISTI_2": "Statistisches Block",
+		"GEMARKUNG": "Gemarkung",
+		"DATUM_DER_": "Datum der Forführung",
+		"URL": "URL",
+		"DATEI": "Datei"		
+	},
+	"legendURL": "ignore",
+	"layerAttribution": "Blockakte Digitalisiert (Stand 06.05.2022)",
+	"cache": false
+},
+ {
+        "id": "RBS_Bloecke_FL",
+        "name": "RBS_Bloecke_FL",
+        "url": "/resources/geojson/RBS_Bloecke_FL.geojson",
+        "typ": "GeoJSON",
+	"minScale": "0",
+        "maxScale": "10000",
+        "gfiTheme": "default",
+        "gfiAttributes": "ignore",
+        "legendURL": "ignore",
+        "cache": false
+    },
+    {
+        "id": "RBS_Bloecke_TX",
+        "name": "RBS_Bloecke_TX",
+        "url": "/resources/geojson/RBS_Bloecke_TX.geojson",
+        "typ": "GeoJSON",
+	"minScale": "0",
+        "maxScale": "10000",
+        "gfiTheme": "default",
+        "gfiAttributes": "ignore",
+        "legendURL": "ignore",
+        "cache": false
+    },
+{
+        "id": "RBS_Gebiete_LI",
+        "name": "RBS_Gebiete_LI",
+        "url": "/resources/geojson/RBS_Gebiete_LI.geojson",
+        "typ": "GeoJSON",
+	"minScale": "10000",
+        "maxScale": "250000",
+        "gfiTheme": "default",
+        "gfiAttributes": "ignore",
+        "legendURL": "ignore",
+        "cache": false
+    },
+    {
+        "id": "RBS_Gebiete_TX",
+        "name": "RBS_Gebiete_TX",
+        "url": "/resources/geojson/RBS_Gebiete_TX.geojson",
+        "typ": "GeoJSON",
+	"minScale": "10000",
+        "maxScale": "250000",
+        "gfiTheme": "default",
+        "gfiAttributes": "ignore",
+        "legendURL": "ignore",
+        "cache": false
     }
+
    
     
 ]
