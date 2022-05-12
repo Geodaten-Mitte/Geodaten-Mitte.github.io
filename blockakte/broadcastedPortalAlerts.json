@@ -2,7 +2,7 @@
     "globalAlerts": ["searchHint", "wartung"],
 
     "restrictedAlerts": {
-        ""https://geodaten-mitte.github.io/blockakte/": ["searchHint", "wartung"]
+        "https://geodaten-mitte.github.io/blockakte/": ["searchHint", "wartung"]
 
 
     },
