@@ -892,6 +892,195 @@
             }
 
         ]
-    }
+    },
+
+    {
+	"styleId": "Block_Style",
+	"rules": [{
+    		"conditions": {
+        		"properties": {
+            			"STIFT": 80.0
+            		}
+        	},
+    		"style": {
+        		"polygonStrokeColor": [225, 0, 0, 0.4],
+        		"polygonStrokeWidth": 1.5,
+        		"polygonFillColor": [255, 191, 191, 0]
+        	}
+    	},
+    	{
+    		"conditions": {
+        		"properties": {
+            			"STIFT": 84.0
+            		}
+        	},
+    	"style": {
+        		"polygonStrokeColor": [225, 0, 0, 0.4],
+        		"polygonStrokeWidth": 1.5,
+        		"polygonFillColor": [191, 255, 191, 0]
+        	}
+    	}
+]
+},
+
+    {
+	"styleId": "Block_Style_Feldvergleich",
+	"rules": [{
+    		"conditions": {
+        		"properties": {
+            			"KLASSENNAM": "Block_Akte_Feldvergleich"
+            		}
+        	},
+    		"style": {
+        		"polygonStrokeColor": [225, 165, 0, 1],
+        		"polygonStrokeWidth": 1.5,
+        		"polygonFillColor": [255, 165, 0, 0.5]
+        	}
+    	}
+]
+},
+
+    {
+	"styleId": "Block_Style_Sonstiges",
+	"rules": [{
+    		"conditions": {
+        		"properties": {
+            			"KLASSENNAM": "Block_Akte_Sonstiges"
+            		}
+        	},
+    		"style": {
+        		"polygonStrokeColor": [225, 255, 0, 1],
+        		"polygonStrokeWidth": 1.5,
+        		"polygonFillColor": [255, 255, 0, 0.5]
+        	}
+    	}
+]
+},
+
+    {
+	"styleId": "Block_Style_VS_HGN",
+	"rules": [{
+    		"conditions": {
+        		"properties": {
+            			"KLASSENNAM": "Block_Akte_VS_HGN"
+            		}
+        	},
+    		"style": {
+        		"polygonStrokeColor": [0, 0, 255, 1],
+        		"polygonStrokeWidth": 1.5,
+        		"polygonFillColor": [0, 0, 255, 0.5]
+        	}
+    	}
+]
+},
+
+    {
+	"styleId": "Block_Style_Gebäude",
+	"rules": [{
+    		"conditions": {
+        		"properties": {
+            			"KLASSENNAM": "Block_Akte_Gebäude"
+            		}
+        	},
+    		"style": {
+        		"polygonStrokeColor": [0, 128, 0, 1],
+        		"polygonStrokeWidth": 1.5,
+        		"polygonFillColor": [0, 128, 0, 0.5]
+        	}
+    	}
+]
+},
+
+    {
+	"styleId": "Block_Style_Abriss",
+	"rules": [{
+    		"conditions": {
+        		"properties": {
+            			"KLASSENNAM": "Block_Akte_Abriss"
+            		}
+        	},
+    		"style": {
+        		"polygonStrokeColor": [225, 0, 0, 1],
+        		"polygonStrokeWidth": 1.5,
+        		"polygonFillColor": [255, 0, 0, 0.5]
+        	}
+    	}
+]
+},
+    {
+        "styleId": "RBS_Bloecke.pt",
+        "rules": [{
+            "style": {
+                "circleRadius": 0,
+                "circleStrokeColor": [97, 69, 222, 0],
+                "circleStrokeWidth": 0,
+                "circleFillColor": [255, 255, 255, 0],
+                "labelField": "AUFSCHRIFT",
+                "textFont": "Arial",
+                "textScale": 2,
+                "textOffsetX": 0,
+                "textOffsetY": 0,
+                "textFillColor": [0, 164, 0, 1],
+                "textStrokeColor": [255, 255, 255, 0.9],
+                "textbackgroundFill": [255, 255, 255, 1],
+                "textbackgroundStroke": 20
+            }
+        }]
+    },
+
+    {
+        "styleId": "RBS_Bloecke.fl",
+        "rules": [{
+    		"conditions": {
+        		"properties": {
+            			"STIFT": 40.0
+            		}
+        	},
+    		"style": {
+        		"polygonStrokeColor": [0, 164, 0, 1],
+        		"polygonStrokeWidth": 1.5,
+        		"polygonFillColor": [0, 164, 0, 0]
+        	}
+    	}
+]
+},
+    {
+        "styleId": "RBS_Gebiete.pt",
+        "rules": [{
+            "style": {
+                "circleRadius": 0,
+                "circleStrokeColor": [97, 69, 222, 0],
+                "circleStrokeWidth": 0,
+                "circleFillColor": [255, 255, 255, 0],
+                "labelField": "AUFSCHRIFT",
+                "textFont": "Arial",
+                "textScale": 4,
+                "textOffsetX": 0,
+                "textOffsetY": 0,
+                "textFillColor": [0, 164, 0, 1],
+                "textStrokeColor": [255, 255, 255, 0.9],
+                "textbackgroundFill": [255, 255, 255, 1],
+                "textbackgroundStroke": 20
+            }
+        }]
+    },
+
+    {
+        "styleId": "RBS_Gebiete.li",
+        "rules": [{
+    		"conditions": {
+        		"properties": {
+            			"STIFT": 83.0
+            		}
+        	},
+    		"style": {
+        		"lineStrokeColor": [138, 255, 168, 1],
+        		"lineStrokeWidth": 2.5,
+        		"lineFillColor": [138, 255, 168, 1]
+        	}
+    	}
+]
+}
+
 
 ]
