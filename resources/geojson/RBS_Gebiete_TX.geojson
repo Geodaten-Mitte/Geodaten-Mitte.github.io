@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "RBS_Gebiete_TX",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25833" } },
+"features": [
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "010" }, "geometry": { "type": "Point", "coordinates": [ 386461.365005998581182, 5823588.520247547887266 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "011" }, "geometry": { "type": "Point", "coordinates": [ 388030.156009073543828, 5824309.417295860126615 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "009" }, "geometry": { "type": "Point", "coordinates": [ 389281.612808103789575, 5823420.009634453803301 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "098" }, "geometry": { "type": "Point", "coordinates": [ 390141.993849357648287, 5820719.921996209770441 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "008" }, "geometry": { "type": "Point", "coordinates": [ 390322.37270321638789, 5822761.48860474769026 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "006" }, "geometry": { "type": "Point", "coordinates": [ 390475.383550773491152, 5824844.407496074214578 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "102" }, "geometry": { "type": "Point", "coordinates": [ 390569.522016827017069, 5819950.217164054512978 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "103" }, "geometry": { "type": "Point", "coordinates": [ 390915.409123173041735, 5819221.978906190022826 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "007" }, "geometry": { "type": "Point", "coordinates": [ 391234.306289199739695, 5823348.959975338540971 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "100" }, "geometry": { "type": "Point", "coordinates": [ 391144.12358353874879, 5820747.979073034599423 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "099" }, "geometry": { "type": "Point", "coordinates": [ 391340.997405309521127, 5821352.728374226018786 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "101" }, "geometry": { "type": "Point", "coordinates": [ 392132.558232010458596, 5820098.352706119418144 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "104" }, "geometry": { "type": "Point", "coordinates": [ 392433.224691697396338, 5818846.889854051172733 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "105" }, "geometry": { "type": "Point", "coordinates": [ 392873.537928692647256, 5820058.774367881938815 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "001" }, "geometry": { "type": "Point", "coordinates": [ 387399.791485183755867, 5821948.994672244414687 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "002" }, "geometry": { "type": "Point", "coordinates": [ 387741.151113432948478, 5821395.153987468220294 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "003" }, "geometry": { "type": "Point", "coordinates": [ 387878.69521309400443, 5820503.629287634976208 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "004" }, "geometry": { "type": "Point", "coordinates": [ 388233.851830720843282, 5819309.819668035022914 ] } },
+{ "type": "Feature", "properties": { "STIFT": 83.0, "KLASSENNAM": "K10_Mitte_StatGebiet", "AUFSCHRIFT": "005" }, "geometry": { "type": "Point", "coordinates": [ 388916.673274808912538, 5818340.350291768088937 ] } }
+]
+}
