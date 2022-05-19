@@ -207,11 +207,7 @@
                     "staticlinks": [{
                             "name": "Kataster & Vermessungsamt",
                             "url": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/stadtentwicklungsamt/kataster-und-vermessung/"
-                        },
-                        {
-                            "name": "Kommunale Vermessung",
-                            "url": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/stadtentwicklungsamt/kataster-und-vermessung/artikel.117891.php"
-                        },
+                        },                        
                         {
                             "name": "Gebäudevermessungspflicht",
                             "url": "https://service.berlin.de/dienstleistung/324338/"
