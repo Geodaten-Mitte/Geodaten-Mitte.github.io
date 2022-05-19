@@ -43,10 +43,10 @@
         "typ": "EmailService"
     },
     {
-        "id": "99999",
-        "name": "Print Service",
-        "url": "https://geodienste.hamburg.de/mapfish_print_2_internet",
-        "typ": "PrintService"
+        "id": "mapfish_printservice_id", 
+	"name": "Mapfish Print Service",
+	"url" : "https://gdi.berlin.de/services/printing/",
+	"typ" : "PrintService"
     },
     {
         "id": "mapfish",
