@@ -186,17 +186,12 @@
                     },
 
                     "print": {
-                          "name": "Karte drucken",
-                        "glyphicon": "glyphicon-print",
-                        "mapfishServiceId": "mapfish_printservice_id",
-                        "printAppId": "gdibe",
-                        "filename": "Print",
-                        "title": "Mein Titel",
+                          "name": "Drucken",
                         "version": "mapfish_print_3",
-                        "isLegendSelected": false,
-                        "gfi": false,
-                        "legendText": "Legende",
-                        "dpiForPdf": 90
+                        "mapfishServiceId": "mapfish",
+                        "filename": "karte",
+                        "title": "Karte",
+                        "isVisibleInMenu": true
 
                     }
 
