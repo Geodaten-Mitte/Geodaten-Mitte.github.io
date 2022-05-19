@@ -49,9 +49,9 @@
         },
         "mapView": {
             "backgroundImage": "",
-            "startCenter": [389437.73, 5821509.84],
+            "startCenter": [387284.12, 5820955.21],
             "extent": [227879, 3932632, 1044484, 8893131],
-            "startZoomLevel": 2,
+            "startZoomLevel": 5,
             "epsg": "EPSG:25833",
             "options": [{
                     "resolution": 15.874991427504629,
@@ -251,7 +251,7 @@
             "Layer": [{
                     "id": "myId1",
                     "name": "Hintergrundkarte (farbig)",
-                    "visibility": false,
+                    "visibility": true,
                     "children": [{
                             "id": "fis_k5_f",
                             "minScale": "0",
@@ -283,7 +283,7 @@
                 {
                     "id": "myId5",
                     "name": "Berlin-Zoom (SW-Ausgabe)",
-                    "visibility": true,
+                    "visibility": false,
                     "children": [{
                             "id": "990006",
                             "minScale": "0",
@@ -523,7 +523,7 @@
                     "id": "Neubauten_Neu",
                     "name": "Neubauvorhaben",
                     "styleId": "Neub",
-                    "visibility": true,
+                    "visibility": false,
                     "mouseHoverField": ["BEREICH"],
                     "nearbyTitle": "BEREICH",
                     "searchField": ["BEREICH", "LFD_NR"]
