@@ -20,7 +20,7 @@ const Config = {
    },
 
    alerting: {
-      fetchBroadcastUrl: "../Aussendienst-1234/broadcastedPortalAlerts.json"
+      fetchBroadcastUrl: "../Info/broadcastedPortalAlerts.json"
    },
 
    quickHelp: {
