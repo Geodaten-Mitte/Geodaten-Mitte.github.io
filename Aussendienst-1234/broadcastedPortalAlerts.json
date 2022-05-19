@@ -2,7 +2,7 @@
     "globalAlerts": ["searchHint", "wartung"],
 
     "restrictedAlerts": {
-        "https://geodaten-mitte.github.io/Aussendienst-1234/": ["searchHint", "wartung"]
+        "https://geodaten-mitte.github.io/Info/": ["searchHint", "wartung"]
 
 
     },
