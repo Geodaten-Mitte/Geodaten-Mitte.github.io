@@ -1080,6 +1080,25 @@
         	}
     	}
 ]
+},
+
+    {
+        "styleId": "Recycling_Glass_Sym",
+        "rules": [{
+            "style": {
+                "type": "icon",
+                "clusterImageName": "Recycling_Glass_Icon.png",
+                "imageName": "Recycling_Glass_Icon.png",
+                "imageScale": 0.075,
+                "clusterImageScale": 0.075,
+                "clusterTextFillColor": [51, 51, 51, 1],
+                "clusterTextStrokeColor": [255, 255, 255, 1],
+                "clusterTextStrokeWidth": 3,
+                "clusterTextScale": 1.3,
+                "clusterTextOffsetX": 15,
+                "clusterTextOffsetY": 15
+            }
+        }]
 }
 
 
