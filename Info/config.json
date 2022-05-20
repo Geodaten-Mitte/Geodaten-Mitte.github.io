@@ -624,7 +624,7 @@
                     "nearbyTitle": "StandortBezeichnung"
                 },
                 {
-                    "id": "Recycling_Glass_",
+                    "id": "Recycling_Glass_P",
                     "name": "Glas Container",
                     "visibility": false,
                     "styleId": "Recycling_Glass_Sym"
