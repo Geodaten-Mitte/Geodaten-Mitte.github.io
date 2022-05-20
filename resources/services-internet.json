@@ -3225,6 +3225,17 @@
         "gfiAttributes": "ignore",
         "legendURL": "ignore",
         "cache": false
+    },
+    {
+        "id": "Recycling_Glass_P",
+        "name": "Recycling_Glass",
+        "url": "/resources/geojson/Recycling_Glass.geojson",
+        "typ": "GeoJSON",
+        "gfiTheme": "default",
+        "gfiAttributes": "ignore",
+        "layerAttribution": "Glasiglus im Bezirk Mitte (Stand 08.2021)",
+        "legendURL": "ignore",
+        "cache": false
     }
 
    
