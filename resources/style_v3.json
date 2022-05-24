@@ -1099,7 +1099,45 @@
                 "clusterTextOffsetY": 15
             }
         }]
-}
+},
+{
+        "styleId": "Ladesaeulen_Schnell",
+        "rules": [{
+                "conditions": {
+                    "properties": {
+                        "Art der Ladeeinrichung": "Schnellladeeinrichtung"
+                    }
+                },
+
+                "style": {
+                    "circleRadius": 1.1,
+                    "circleStrokeColor": [97, 69, 222, 0],
+                    "circleStrokeWidth": 0,
+                    "circleFillColor": [255, 0, 0, 1]
+                    
+                }
+            }
+	]
+ },
+{
+        "styleId": "Ladesaeulen_Normal",
+        "rules": [{
+                "conditions": {
+                    "properties": {
+                        "Art der Ladeeinrichung": "Normalladeeinrichtung"
+                    }
+                },
+
+                "style": {
+                    "circleRadius": 1.1,
+                    "circleStrokeColor": [97, 69, 222, 0],
+                    "circleStrokeWidth": 0,
+                    "circleFillColor": [255, 255, 0, 1]
+                    
+                }
+            }
+	]
+ }
 
 
 ]
