@@ -228,7 +228,93 @@
   					}
 					                  
                 		
+              		},
+			{
+                		"layerId": "Blockakte_VS_HGN", 
+                		"name": "Blockakte VS/HGN",
+                		"isSelected": false,
+                		"isActive": false,				
+                		"info": "Filter: Blockakten VS/HGN",        			
+				"attributeWhiteList": 
+ 					{    					
+    					"GEMARKUNG": "Gemarkung",
+    					"STATISTISC": "Statistisches Gebiet",
+    					"STATISTI_2": "Statistischer Block",
+    					"NAME": "Name der Fortführung",
+					"JAHR_DER_F": "Fortführungsjahr"
+  					}
+					                  
+                		
+              		},
+			{
+                		"layerId": "Blockakte_Gebäude", 
+                		"name": "Blockakte Gebäude",
+                		"isSelected": false,
+                		"isActive": false,				
+                		"info": "Filter: Blockakten Gebäude",        			
+				"attributeWhiteList": 
+ 					{    					
+    					"GEMARKUNG": "Gemarkung",
+    					"STATISTISC": "Statistisches Gebiet",
+    					"STATISTI_2": "Statistischer Block",
+    					"NAME": "Name der Fortführung",
+					"JAHR_DER_F": "Fortführungsjahr"
+  					}
+					                  
+                		
+              		},
+			{
+                		"layerId": "Blockakte_Abriss", 
+                		"name": "Blockakte Abriss",
+                		"isSelected": false,
+                		"isActive": false,				
+                		"info": "Filter: Blockakten Abriss",        			
+				"attributeWhiteList": 
+ 					{    					
+    					"GEMARKUNG": "Gemarkung",
+    					"STATISTISC": "Statistisches Gebiet",
+    					"STATISTI_2": "Statistischer Block",
+    					"NAME": "Name der Fortführung",
+					"JAHR_DER_F": "Fortführungsjahr"
+  					}
+					                  
+                		
+              		},
+			{
+                		"layerId": "Blockakte_Feldvergleich", 
+                		"name": "Blockakte Feldvergleich",
+                		"isSelected": false,
+                		"isActive": false,				
+                		"info": "Filter: Blockakten Feldvergleich",        			
+				"attributeWhiteList": 
+ 					{    					
+    					"GEMARKUNG": "Gemarkung",
+    					"STATISTISC": "Statistisches Gebiet",
+    					"STATISTI_2": "Statistischer Block",
+    					"NAME": "Name der Fortführung",
+					"JAHR_DER_F": "Fortführungsjahr"
+  					}
+					                  
+                		
+              		},
+			{
+                		"layerId": "Blockakte_Sonstiges", 
+                		"name": "Blockakte Sonstiges",
+                		"isSelected": false,
+                		"isActive": false,				
+                		"info": "Filter: Blockakten Sonstiges",        			
+				"attributeWhiteList": 
+ 					{    					
+    					"GEMARKUNG": "Gemarkung",
+    					"STATISTISC": "Statistisches Gebiet",
+    					"STATISTI_2": "Statistischer Block",
+    					"NAME": "Name der Fortführung",
+					"JAHR_DER_F": "Fortführungsjahr"
+  					}
+					                  
+                		
               		}
+
 
 		    ]
 		   }
