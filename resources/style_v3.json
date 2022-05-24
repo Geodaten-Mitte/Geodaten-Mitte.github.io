@@ -1101,7 +1101,7 @@
         }]
 },
 {
-        "styleId": "Ladesaeulen_Schnell",
+        "styleId": "E-Ladesaeulen_Schnell_Style",
         "rules": [{
                 "conditions": {
                     "properties": {
@@ -1120,7 +1120,7 @@
 	]
  },
 {
-        "styleId": "Ladesaeulen_Normal",
+        "styleId": "E-Ladesaeulen_Normal_Style",
         "rules": [{
                 "conditions": {
                     "properties": {
