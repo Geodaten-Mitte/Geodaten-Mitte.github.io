@@ -643,12 +643,12 @@
                     "visibility": false,
                     "children": [{
                             "id": "E-Ladesaeulen_Schnell",
-                            "name": "Schnellladesäulen",
+                            "name": "Schnellladesäule",
                             "styleId": "E-Ladesaeulen_Schnell_Style"
                         },
                         {
                             "id": "E-Ladesaeulen_Normal",
-                            "name": "Normalladesäulen",
+                            "name": "Normalladesäule",
                             "styleId": "E-Ladesaeulen_Normal_Style"
                         }
                     ]
