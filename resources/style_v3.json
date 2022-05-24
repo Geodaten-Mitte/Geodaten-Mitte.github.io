@@ -1110,6 +1110,7 @@
                 },
 
                 "style": {
+		    "type": "circle",
                     "circleRadius": 10,
                     "circleStrokeColor": [97, 69, 222, 0],
                     "circleStrokeWidth": 0,
@@ -1129,6 +1130,7 @@
                 },
 
                 "style": {
+		    "type": "circle",
                     "circleRadius": 10,
                     "circleStrokeColor": [97, 69, 222, 0],
                     "circleStrokeWidth": 0,
