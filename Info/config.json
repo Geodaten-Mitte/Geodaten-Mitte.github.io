@@ -636,6 +636,22 @@
                     "name": "Verkehrslage",
                     "visibility": false,
                     "autoRefresh": "300000"
+                },
+                {
+                    "id": "E-Ladesaeulen",
+                    "name": "E-Ladesaeulen",
+                    "visibility": false,
+                    "children": [{
+                            "id": "E-Ladesaeulen_Schnell",
+                            "name": "Schnellladesäulen",
+                            "styleId": "E-Ladesaeulen_Schnell_Style"
+                        },
+                        {
+                            "id": "E-Ladesaeulen_Normal",
+                            "name": "Normalladesäulen",
+                            "styleId": "E-Ladesaeulen_Normal_Style"
+                        }
+                    ]
                 }
 
 
