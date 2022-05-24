@@ -3236,6 +3236,28 @@
         "layerAttribution": "Glasiglus im Bezirk Mitte (Stand 08.2021)",
         "legendURL": "ignore",
         "cache": false
+    },
+    {
+        "id": "E-Ladesaeulen_Schnell",
+        "name": "E-Ladesaeulen_Schnell",
+        "url": "/resources/geojson/E-Ladesaeulen.geojson",
+        "typ": "GeoJSON",
+        "gfiTheme": "default",
+        "gfiAttributes": "ignore",
+        "layerAttribution": "Ladesäulenregister. <br>.<br>Stand: 01.05.2022 <br>Quelle: Bundesnetzagentur <br>.<br>Hinweis:<br>Die Liste beinhaltet die Ladeeinrichtungen aller Betreiberinnen und Betreiber, die das Anzeigeverfahren der Bundesnetzagentur vollständig<br>abgeschlossen und einer Veröffentlichung im Internet zugestimmt haben. Die Zahl der öffentlich zugänglichen Ladeeinrichtungen in<br>Deutschland ist daher größer als hier dargestellt.",
+        "legendURL": "ignore",
+        "cache": false
+    },
+    {
+        "id": "E-Ladesaeulen_Normal",
+        "name": "E-Ladesaeulen_Normal",
+        "url": "/resources/geojson/E-Ladesaeulen.geojson",
+        "typ": "GeoJSON",
+        "gfiTheme": "default",
+        "gfiAttributes": "ignore",
+        "layerAttribution": "Ladesäulenregister. <br>.<br>Stand: 01.05.2022 <br>Quelle: Bundesnetzagentur <br>.<br>Hinweis:<br>Die Liste beinhaltet die Ladeeinrichtungen aller Betreiberinnen und Betreiber, die das Anzeigeverfahren der Bundesnetzagentur vollständig<br>abgeschlossen und einer Veröffentlichung im Internet zugestimmt haben. Die Zahl der öffentlich zugänglichen Ladeeinrichtungen in<br>Deutschland ist daher größer als hier dargestellt.",
+        "legendURL": "ignore",
+        "cache": false
     }
 
    
