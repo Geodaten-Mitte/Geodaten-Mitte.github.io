@@ -3259,8 +3259,7 @@
 	    "P3 [kW]": "P3 kW",
 	    "Steckertypen4": "Steckertyp 4",
 	    "P4 [kW]": "P4 kW"
-        },
-        "layerAttribution": "Ladesäulenregister. <br>.<br>Stand: 01.05.2022 <br>Quelle: Bundesnetzagentur <br>.<br>Hinweis:<br>Die Liste beinhaltet die Ladeeinrichtungen aller Betreiberinnen und Betreiber, die das Anzeigeverfahren der Bundesnetzagentur vollständig<br>abgeschlossen und einer Veröffentlichung im Internet zugestimmt haben. Die Zahl der öffentlich zugänglichen Ladeeinrichtungen in<br>Deutschland ist daher größer als hier dargestellt.",
+        },        
         "legendURL": "ignore",
         "cache": false
     },
@@ -3287,10 +3286,21 @@
 	    "Steckertypen4": "Steckertyp 4",
 	    "P4 [kW]": "P4 kW"
         },
+        "legendURL": "ignore",
+        "cache": false
+    },
+    {
+        "id": "E-Ladesaeulen",
+        "name": "E-Ladesaeulen",
+        "url": "/resources/geojson/E-Ladesaeulen.geojson",
+        "typ": "GeoJSON",
+        "gfiTheme": "default",
+        "gfiAttributes": "ignore",
         "layerAttribution": "Ladesäulenregister. <br>.<br>Stand: 01.05.2022 <br>Quelle: Bundesnetzagentur <br>.<br>Hinweis:<br>Die Liste beinhaltet die Ladeeinrichtungen aller Betreiberinnen und Betreiber, die das Anzeigeverfahren der Bundesnetzagentur vollständig<br>abgeschlossen und einer Veröffentlichung im Internet zugestimmt haben. Die Zahl der öffentlich zugänglichen Ladeeinrichtungen in<br>Deutschland ist daher größer als hier dargestellt.",
         "legendURL": "ignore",
         "cache": false
     }
+
 
    
     
