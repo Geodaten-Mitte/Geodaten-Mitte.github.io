@@ -650,6 +650,10 @@
                             "id": "E-Ladesaeulen_Normal",
                             "name": "Normalladesäule",
                             "styleId": "E-Ladesaeulen_Normal_Style"
+                        },
+                        {
+                            "id": "E-Ladesaeulen",
+                            "name": "E-Ladesaeulen"
                         }
                     ]
                 }
