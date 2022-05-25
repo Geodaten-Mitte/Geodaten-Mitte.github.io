@@ -173,7 +173,7 @@
             "ZEITEN": "Bewirtschaftungszeiten"
         },
         "legendURL": "/resources/Leg/Legende_Parkraumbewirtschaftung.png",
-        "layerAttribution": "Parkraumbewirtschaftung in Berlin Mitte. <br>.<br>Letzte Aktualisierung: 19.10.2021 <br>Quelle: Ordnungsamt <br>.<br>Ansprechpartener Technisch: Herr Blank<br>Telefon: 030 / 901833610<br>E-Mail: christoph.blank@ba-mitte.berlin.de<br>.<br>Ansprechpartener Inhaltlich: Herr Stevens<br>Telefon: 030 / 901822733<br>E-Mail: m.stevens@ba-mitte.berlin.de",
+        "layerAttribution": "Parkraumbewirtschaftung in Berlin Mitte. <br>.<br>Letzte Aktualisierung: 19.10.2021 <br>Quelle: Ordnungsamt <br>.<br>Ansprechpartener Technisch: Herr Blank<br>Telefon: 030 / 901833610<br><a href="mailto:christoph.blank@ba-mitte.berlin.de">E-Mail</a><br>.<br>Ansprechpartener Inhaltlich: Herr Stevens<br>Telefon: 030 / 901822733<br>E-Mail: m.stevens@ba-mitte.berlin.de",
         "cache": false,
         "datasets": [{
             "md_id": "Metadaten_Ordnungsamt.xml",
@@ -3296,7 +3296,7 @@
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
-        "layerAttribution": "Ladesäulenregister. <br>.<br>Stand: 01.05.2022 <br>Quelle: Bundesnetzagentur <br>.<br>Hinweis:<br>Die Liste beinhaltet die Ladeeinrichtungen aller Betreiberinnen und Betreiber, die das Anzeigeverfahren der Bundesnetzagentur vollständig<br>abgeschlossen und einer Veröffentlichung im Internet zugestimmt haben. Die Zahl der öffentlich zugänglichen Ladeeinrichtungen in<br>Deutschland ist daher größer als hier dargestellt.<br>.<br>Weitere informationen unter: href='https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/start.html'>Bundesnetzagentur-E-Mobilität",
+        "layerAttribution": "Ladesäulenregister. <br>.<br>Stand: 01.05.2022 <br>Quelle: Bundesnetzagentur <br>.<br>Hinweis:<br>Die Liste beinhaltet die Ladeeinrichtungen aller Betreiberinnen und Betreiber, die das Anzeigeverfahren der Bundesnetzagentur vollständig<br>abgeschlossen und einer Veröffentlichung im Internet zugestimmt haben. Die Zahl der öffentlich zugänglichen Ladeeinrichtungen in<br>Deutschland ist daher größer als hier dargestellt.<br>.<br>Weitere informationen unter: <a href='https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/start.html'>Bundesnetzagentur-E-Mobilität</a>",
         "legendURL": "ignore",
         "cache": false
     }
