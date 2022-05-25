@@ -3286,6 +3286,7 @@
 	    "Steckertypen4": "Steckertyp 4",
 	    "P4 [kW]": "P4 kW"
         },
+	"layerAttribution": "<a target='_blank' href='https://www.openstreetmap.org/copyright'>© OpenStreetMap-Mitwirkende, CC-BY-SA</a>",
         "legendURL": "ignore",
         "cache": false
     },
