@@ -3286,7 +3286,7 @@
 	    "Steckertypen4": "Steckertyp 4",
 	    "P4 [kW]": "P4 kW"
         },
-	"layerAttribution": "Ladesäulenregister <br/><br>  Stand: 01.05.2022 <br/> Quelle: <a target='_blank' href='https://www.openstreetmap.org/copyright'>© OpenStreetMap-Mitwirkende, CC-BY-SA</a>",
+	"layerAttribution": "Ladesäulenregister <br/><p><br> Stand: 01.05.2022 <br/> Quelle: <a target='_blank' href='https://www.openstreetmap.org/copyright'>© OpenStreetMap-Mitwirkende, CC-BY-SA</a>",
         "legendURL": "ignore",
         "cache": false
     },
