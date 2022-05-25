@@ -642,9 +642,8 @@
                     "name": "E-Ladesaeulen",
                     "visibility": false,
                     "children": [{
-                            "id": "E-Ladesaeulen_Schnell",
-                            "name": "Schnellladesäule",
-                            "styleId": "E-Ladesaeulen_Schnell_Style"
+                            "id": "E-Ladesaeulen",
+                            "name": "E-Ladesaeulen"
                         },
                         {
                             "id": "E-Ladesaeulen_Normal",
@@ -652,8 +651,9 @@
                             "styleId": "E-Ladesaeulen_Normal_Style"
                         },
                         {
-                            "id": "E-Ladesaeulen",
-                            "name": "E-Ladesaeulen"
+                            "id": "E-Ladesaeulen_Schnell",
+                            "name": "Schnellladesäule",
+                            "styleId": "E-Ladesaeulen_Schnell_Style"
                         }
                     ]
                 }
