@@ -3296,7 +3296,7 @@
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
-	"layerAttribution": "<p> Ladesäulenregister <br>.<br> Stand: 01.05.2022 <br/> Quelle: Bundesnetzagentur <br>.<br>Hinweis: <br>Die Liste beinhaltet die Ladeeinrichtungen aller Betreiberinnen und Betreiber, die das Anzeigeverfahren der Bundesnetzagentur vollständig<br>abgeschlossen und einer Veröffentlichung im Internet zugestimmt haben. Die Zahl der öffentlich zugänglichen Ladeeinrichtungen in<br>Deutschland ist daher größer als hier dargestellt.<br>.<br>Weitere informationen unter: <a target='_blank' href='https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/start.html'>Bundesnetzagentur Elek­tro­mo­bi­li­tät</a>",
+	"layerAttribution": "<p> Ladesäulenregister <br>.<br> Stand: 01.05.2022 <br/> Quelle: Bundesnetzagentur <br>.<br>Hinweis: <br>Die Liste beinhaltet die Ladeeinrichtungen aller Betreiberinnen und Betreiber, <br>die das Anzeigeverfahren der Bundesnetzagentur vollständig<br>abgeschlossen und einer Veröffentlichung im Internet zugestimmt haben. <br>Die Zahl der öffentlich zugänglichen Ladeeinrichtungen in<br>Deutschland ist daher größer als hier dargestellt.<br>.<br>Weitere informationen unter: <a target='_blank' href='https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/start.html'>Bundesnetzagentur Elek­tro­mo­bi­li­tät</a>",
         "legendURL": "ignore",
         "cache": false
     }
