@@ -106,7 +106,8 @@
                     "gfi": {
                         "name": "Informationen abfragen",
                         "glyphicon": "glyphicon-info-sign",
-                        "active": true
+                        "active": true,
+                        "desktopType": "attached"
                     },
 
                     "searchByCoord": {
