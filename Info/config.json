@@ -6,6 +6,7 @@
             "link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/stadtentwicklungsamt/kataster-und-vermessung/",
             "tooltip": "Bezirksamt Mitte, FB Vermessung"
         },
+        "singleBaselayer": true,
         "treeType": "custom",
         "searchBar": {
 
