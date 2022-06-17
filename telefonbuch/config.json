@@ -1,0 +1,272 @@
+{
+    "Portalconfig": {
+        "portalTitle": {
+            "title": "Telefonbuch",
+            "logo": "../resources/img/Wappen.png",
+            "link": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/stadtentwicklungsamt/kataster-und-vermessung/",
+            "tooltip": "Bezirksamt Mitte, FB Vermessung"
+        },
+        "singleBaselayer": true,
+        "treeType": "custom",
+        "searchBar": {
+
+            "bkg": {
+                "minChars": 3,
+                "suggestServiceId": "4",
+                "geosearchServiceId": "5",
+                "extent": [384000.0, 5817000.0, 394000.0, 5826000.0],
+                "suggestCount": 10,
+                "epsg": "EPSG:25833",
+                "filter": "filter=(ort:Mitte, Moabit, Hansaviertel, Gesundbrunnen, Wedding, Tiergarten)",
+                "zoomToResult": true,
+                "score": 0.6
+            },
+            "osm": {
+                "minChars": 3,
+                "serviceId": "10",
+                "limit": 60,
+                "states": "Berlin",
+                "classes": "place,highway,building,shop,historic,leisure,city,county"
+            },
+            "komoot": {
+                "minChars": 3,
+                "serviceId": "11",
+                "limit": 20,
+                "lang": "de",
+                "lat": 53.6,
+                "lon": 10.0,
+                "state": "Berlin",
+                "bbox": "13.29,52.49,13.43,52.57"
+            },
+
+            "visibleVector": {
+                "minChars": 3,
+                "layerTypes": ["WFS", "GeoJSON"]
+            },
+            "tree": {},
+            "startzoomLevel": 2,
+            "placeholder": "Suche nach: Straße, Haus-Nr.",
+            "parcelSearch": true
+        },
+        "mapView": {
+            "backgroundImage": "",
+            "startCenter": [387285.88, 5820959.60],
+            "extent": [227879, 3932632, 1044484, 8893131],
+            "startZoomLevel": 0,
+            "epsg": "EPSG:25833",
+            "options": [{
+                    "resolution": 0.13229159522920521,
+                    "scale": 500,
+                    "zoomLevel": 0
+                },
+                {
+                    "resolution": 0.0661457976146025,
+                    "scale": 250,
+                    "zoomLevel": 1
+                },
+   		{
+                    "resolution": 0.0410103945210535,
+                    "scale": 155,
+                    "zoomLevel": 3
+                },
+                {
+                    "resolution": 0.040481228140137,
+                    "scale": 153,
+                    "zoomLevel": 2
+                },             
+                {
+                    "resolution": 0.0399520617592199,
+                    "scale": 151,
+                    "zoomLevel": 4
+                }
+            ]
+        },
+        "menu": {
+            "tree": {
+                "name": "Themen"
+            },
+            "tools": {
+                "name": "Werkzeuge",
+                "children": {
+                    "gfi": {
+                        "name": "Informationen abfragen",
+                        "glyphicon": "glyphicon-info-sign",
+                        "active": true,
+                        "desktopType": "attached"
+                    },
+
+                    "searchByCoord": {
+                        "name": "Koordinatensuche"
+                    },
+                    "coord": {
+                        "name": "Koordinaten abfragen"
+                    },
+                    "measure": {
+                        "name": "Strecke / Fläche messen"
+                    },
+                    "saveSelection": {
+                        "name": "Auswahl speichern"
+                    },
+                    "draw": {
+                        "name": "Zeichnen / Schreiben",
+                        "renderToWindow": false
+                    },
+
+
+                    "print": {
+                        "name": "Drucken",
+                        "version": "mapfish_print_3",
+                        "mapfishServiceId": "mapfish",
+                        "filename": "karte",
+                        "title": "Karte",
+                        "isVisibleInMenu": true
+
+
+                    }
+
+                }
+            },
+
+            "legend": {
+                "name": "Legende"
+            },
+            "info": {
+                "name": "Informationen",
+                "children": {
+                    "staticlinks": [{
+                            "name": "Kataster & Vermessungsamt Berlin Mitte",
+                            "url": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/stadtentwicklungsamt/kataster-und-vermessung/"
+                        },
+                        {
+                            "name": "Grundstückswertermittlung Berlin Mitte",
+                            "url": "https://www.berlin.de/ba-mitte/politik-und-verwaltung/aemter/stadtentwicklungsamt/kataster-und-vermessung/artikel.117920.php"
+                        },
+                        {
+                            "name": "Gutachterausschuss für Grundstückswerte in Berlin",
+                            "url": "https://www.berlin.de/gutachterausschuss/"
+                        },
+                        {
+                            "name": "FIS-Broker SenStadt",
+                            "url": "https://fbinter.stadt-berlin.de/fb/index.jsp"
+                        }
+
+                    ]
+                }
+
+            }
+        },
+        "controls": {
+            "fullScreen": true,
+            "zoom": true,
+            "attributions": {
+                "isInitOpenDesktop": false,
+                "isInitOpenMobile": false
+            },
+            "mousePosition": true,
+            "overviewMap": {
+                "layerId": "fis_webatlas_sw",
+                "isInitOpen": false
+            }
+        }
+    },
+
+    "Themenconfig": {
+        "Hintergrundkarten": {
+
+            "Layer": [{
+                    "id": "Alkis_Fis",
+                    "visibility": true,
+                    "name": "ALKIS (farbig)"
+                },
+                {
+                    "id": "Alkis_sw_Fis",
+                    "visibility": false,
+                    "name": "ALKIS (sw)"
+                }
+
+
+
+
+            ]
+        },
+        "Fachdaten": {
+            "name": "Fachdaten",
+            "Ordner": [{
+                    "Titel": "Rathaus Tiergarten",
+                    "isFolderSelectable": false,                    
+                    "Layer": [{
+			"id": "MJP1_OG4",                        
+                        "visibility": true,
+			"children": [{
+                            "id": "MJP1_OG4_F",
+			    "styleId": "MJP1.Geschoss.FL",                           
+                            "minScale": "154",
+                            "maxScale": "156"
+                        },
+                        {
+                            "id": "MJP1_OG4_L", 
+			    "styleId": "MJP1.Geschoss.LI",                          
+                            "minScale": "154",
+                            "maxScale": "156"
+                        },
+			{
+                            "id": "MJP1_OG4_P",
+			    "styleId": "MJP1.Geschoss.P",                           
+                            "minScale": "154",
+                            "maxScale": "156"
+                        }
+                    ]},
+                       {
+			"id": "MJP1_OG3",                       
+                        "visibility": true,
+			"children": [{
+                            "id": "MJP1_OG3_F",
+			    "styleId": "MJP1.Geschoss.FL",                           
+                            "minScale": "152",
+                            "maxScale": "154"
+                        },
+                        {
+                            "id": "MJP1_OG3_L",
+			    "styleId": "MJP1.Geschoss.LI",                          
+                            "minScale": "152",
+                            "maxScale": "154"
+                        },
+			{
+                            "id": "MJP1_OG3_P",
+			    "styleId": "MJP1.Geschoss.P",                           
+                            "minScale": "152",
+                            "maxScale": "154"
+                        }
+                    ]},
+                       {
+			"id": "MJP1_EG",                        
+                        "visibility": true,
+			"children": [{
+                            "id": "MJP1_EG_F",
+			    "styleId": "MJP1.Geschoss.FL",                        
+                            "minScale": "150",
+                            "maxScale": "152"
+                        },
+                        {
+                            "id": "MJP1_EG_L",
+			    "styleId": "MJP1.Geschoss.LI",                           
+                            "minScale": "150",
+                            "maxScale": "152"
+                        },
+			{
+                            "id": "MJP1_EG_P",
+			    "styleId": "MJP1.Geschoss.P",                           
+                            "minScale": "150",
+                            "maxScale": "152"
+                        }			
+                    ]}
+
+                    ]
+                }
+            ]
+
+
+
+            }
+        }
+    }
