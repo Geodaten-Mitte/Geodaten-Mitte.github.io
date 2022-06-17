@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "MJP1_EG_P",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25833" } },
+"features": [
+{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "14c" }, "geometry": { "type": "Point", "coordinates": [ 387311.718772641150281, 5820921.471718641929328 ] } },
+{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "14b" }, "geometry": { "type": "Point", "coordinates": [ 387313.311012413934804, 5820923.121777177788317 ] } },
+{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "14a" }, "geometry": { "type": "Point", "coordinates": [ 387313.475573507661466, 5820925.46566086448729 ] } },
+{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "15" }, "geometry": { "type": "Point", "coordinates": [ 387311.231849707197398, 5820933.273506578058004 ] } },
+{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "Werkstatt" }, "geometry": { "type": "Point", "coordinates": [ 387316.628542710561305, 5820925.984357953071594 ] } },
+{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "Archiv" }, "geometry": { "type": "Point", "coordinates": [ 387307.646766191523056, 5820921.565011440776289 ] } },
+{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "Hr. Sorek" }, "geometry": { "type": "Point", "coordinates": [ 387307.95009231561562, 5820930.155634253285825 ] } },
+{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "14d" }, "geometry": { "type": "Point", "coordinates": [ 387311.027521082491148, 5820930.119051488116384 ] } },
+{ "type": "Feature", "properties": { "STIFT": 7.0, "HOEHE": 0.35, "AUFSCHRIFT": "14" }, "geometry": { "type": "Point", "coordinates": [ 387313.629994080052711, 5820928.733399427495897 ] } }
+]
+}
