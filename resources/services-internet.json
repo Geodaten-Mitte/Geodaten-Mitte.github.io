@@ -3341,7 +3341,7 @@
             "ZIMMER": "Zimmer",
             "INTERNET": "Internet"
         },
-        "legendURL": "/mp/Mitte/resources/Leg/Legende_Geschosse.png",
+        "legendURL": "/resources/Leg/Legende_Geschosse.png",
         "layerAttribution": "Geschosse im Rathaus Tiergarten Stand: 02.2022"
         
     },
@@ -3391,7 +3391,7 @@
  {
         "id": "MJP1_OG4_L",
         "name": "MJP1_OG4_L",
-        "url": "/mp/Mitte/resources/geojson/MJP1_OG4_L.geojson",
+        "url": "/resources/geojson/MJP1_OG4_L.geojson",
         "typ": "GeoJSON",
         "gfiTheme": "default",
         "gfiAttributes": "ignore",
