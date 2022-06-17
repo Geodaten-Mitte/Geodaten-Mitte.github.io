@@ -3299,7 +3299,137 @@
 	"layerAttribution": "<p> Ladesäulenregister <br>.<br> Stand: 01.05.2022 <br/> Quelle: Bundesnetzagentur <br>.<br>Hinweis: <br>Die Liste beinhaltet die Ladeeinrichtungen aller Betreiberinnen und Betreiber, <br>die das Anzeigeverfahren der Bundesnetzagentur vollständig<br>abgeschlossen und einer Veröffentlichung im Internet zugestimmt haben. <br>Die Zahl der öffentlich zugänglichen Ladeeinrichtungen in<br>Deutschland ist daher größer als hier dargestellt.<br>.<br>Weitere informationen unter: <a target='_blank' href='https://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/E-Mobilitaet/start.html'>Bundesnetzagentur Elek­tro­mo­bi­li­tät</a>",
         "legendURL": "ignore",
         "cache": false
+    },
+  {
+        "id": "MJP1_EG_F",
+        "name": "MJP1 Geschosse",
+        "url": "/resources/geojson/MJP1_EG_F.geojson",
+        "typ": "GeoJSON",
+        "gfiTheme": "default",
+        "gfiAttributes": {
+            "NAME": "Name",
+            "STELLENZEI": "Stellenzeichen",
+            "TELEFONNUM": "Telefonnummer",
+            "MAIL": "Mail",
+            "AUFGABEN": "Aufgaben",
+            "AMT": "Amt",
+            "FACHBEREIC": "Fachbereich",
+            "DIENSTGRUP": "Dienstgruppe",
+            "DIENSTGEBA": "Dienstgebäude",
+            "ZIMMER": "Zimmer",
+            "INTERNET": "Internet"
+        },
+	"legendURL": "ignore"
+        
+    },
+  {
+        "id": "MJP1_OG3_F",
+        "name": "MJP1 Geschosse",
+        "url": "/resources/geojson/MJP1_OG3_F.geojson",
+        "typ": "GeoJSON",
+        "gfiTheme": "default",
+        "gfiAttributes": {
+            "NAME": "Name",
+            "STELLENZEI": "Stellenzeichen",
+            "TELEFONNUM": "Telefonnummer",
+            "MAIL": "Mail",
+            "AUFGABEN": "Aufgaben",
+            "AMT": "Amt",
+            "FACHBEREIC": "Fachbereich",
+            "DIENSTGRUP": "Dienstgruppe",
+            "DIENSTGEBA": "Dienstgebäude",
+            "ZIMMER": "Zimmer",
+            "INTERNET": "Internet"
+        },
+        "legendURL": "/mp/Mitte/resources/Leg/Legende_Geschosse.png",
+        "layerAttribution": "Geschosse im Rathaus Tiergarten Stand: 02.2022"
+        
+    },
+  {
+        "id": "MJP1_OG4_F",
+        "name": "MJP1 Geschosse",
+        "url": "/resources/geojson/MJP1_OG4_F.geojson",
+        "typ": "GeoJSON",
+        "gfiTheme": "default",
+        "gfiAttributes": {
+            "NAME": "Name",
+            "STELLENZEI": "Stellenzeichen",
+            "TELEFONNUM": "Telefonnummer",
+            "MAIL": "Mail",
+            "AUFGABEN": "Aufgaben",
+            "AMT": "Amt",
+            "FACHBEREIC": "Fachbereich",
+            "DIENSTGRUP": "Dienstgruppe",
+            "DIENSTGEBA": "Dienstgebäude",
+            "ZIMMER": "Zimmer",
+            "INTERNET": "Internet"
+        },
+	"legendURL": "ignore"
+        
+        
+    },
+ {
+        "id": "MJP1_EG_L",
+        "name": "MJP1_EG_L",
+        "url": "/resources/geojson/MJP1_EG_L.geojson",
+        "typ": "GeoJSON",
+        "gfiTheme": "default",
+        "gfiAttributes": "ignore",
+        "legendURL": "ignore",
+        "cache": false
+    },
+ {
+        "id": "MJP1_OG3_L",
+        "name": "MJP1_OG3_L",
+        "url": "/resources/geojson/MJP1_OG3_L.geojson",
+        "typ": "GeoJSON",
+        "gfiTheme": "default",
+        "gfiAttributes": "ignore",
+        "legendURL": "ignore",
+        "cache": false
+    },
+ {
+        "id": "MJP1_OG4_L",
+        "name": "MJP1_OG4_L",
+        "url": "/mp/Mitte/resources/geojson/MJP1_OG4_L.geojson",
+        "typ": "GeoJSON",
+        "gfiTheme": "default",
+        "gfiAttributes": "ignore",
+        "legendURL": "ignore",
+        "cache": false
+    },
+{
+        "id": "MJP1_EG_P",
+        "name": "MJP1_EG_P",
+        "url": "/resources/geojson/MJP1_EG_P.geojson",
+        "typ": "GeoJSON",
+        "gfiTheme": "default",
+        "gfiAttributes": "ignore",
+        "legendURL": "ignore",
+        "cache": false
+    },
+{
+        "id": "MJP1_OG3_P",
+        "name": "MJP1_OG3_P",
+        "url": "/resources/geojson/MJP1_OG3_P.geojson",
+        "typ": "GeoJSON",
+        "gfiTheme": "default",
+        "gfiAttributes": "ignore",
+        "legendURL": "ignore",
+        "cache": false
+    },
+
+{
+        "id": "MJP1_OG4_P",
+        "name": "MJP1_OG4_P",
+        "url": "/resources/geojson/MJP1_OG4_P.geojson",
+        "typ": "GeoJSON",
+        "gfiTheme": "default",
+        "gfiAttributes": "ignore",
+        "legendURL": "ignore",
+        "cache": false
     }
+
 
 
    
