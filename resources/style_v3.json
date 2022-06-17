@@ -1139,7 +1139,173 @@
                 }
             }
 	]
- }
+ },
+ {
+        "styleId": "MJP1.Geschoss.LI",
+        "rules": [{
+		"conditions": {
+                    "properties": {
+                        
+                    }
+                },
+
+               
+                "style": {
+                    "lineStrokeColor": [0, 0, 0, 1],
+                    "lineStrokeWidth": 1.5,
+                    "lineStrokeDash": [0, 0]
+                }
+            }
+
+        ]
+    },
+    {
+        "styleId": "MJP1.Geschoss.FL",
+        "rules": [{
+                "conditions": {
+                    "properties": {
+                        "STIFT": 6.0
+                    }
+                },
+                "style": {
+                    "polygonStrokeColor": [247, 210, 231, 1],
+                    "polygonStrokeWidth": 1,
+                    "polygonFillColor": [247, 210, 231, 1]
+                }
+            },
+            {
+                "conditions": {
+                    "properties": {
+                        "STIFT": 41.0
+                    }
+                },
+                "style": {
+                    "polygonStrokeColor": [255, 234, 170, 1],
+                    "polygonStrokeWidth": 1,
+                    "polygonFillColor": [255, 234, 170, 1]
+                }
+            },
+            {
+                "conditions": {
+                    "properties": {
+                        "STIFT": 31.0
+                    }
+                },
+                "style": {
+                    "polygonStrokeColor": [255, 212, 170, 1],
+                    "polygonStrokeWidth": 1,
+                    "polygonFillColor": [255, 212, 170, 1]
+                }
+            },
+            {
+                "conditions": {
+                    "properties": {
+                        "STIFT": 71.0
+                    }
+                },
+                "style": {
+                    "polygonStrokeColor": [212, 255, 170, 1],
+                    "polygonStrokeWidth": 1,
+                    "polygonFillColor": [212, 255, 170, 1]
+                }
+            },
+            {
+                "conditions": {
+                    "properties": {
+                        "STIFT": 51.0
+                    }
+                },
+                "style": {
+                    "polygonStrokeColor": [255, 255, 170, 1],
+                    "polygonStrokeWidth": 1,
+                    "polygonFillColor": [255, 255, 170, 1]
+                }
+            },
+            {
+                "conditions": {
+                    "properties": {
+                        "STIFT": 5.0
+                    }
+                },
+                "style": {
+                    "polygonStrokeColor": [213, 244, 255, 1],
+                    "polygonStrokeWidth": 1,
+                    "polygonFillColor": [213, 244, 255, 1]
+                }
+            },
+            {
+                "conditions": {
+                    "properties": {
+                        "STIFT": 30.0
+                    }
+                },
+                "style": {
+                    "polygonStrokeColor": [255, 127, 0, 1],
+                    "polygonStrokeWidth": 1,
+                    "polygonFillColor": [255, 127, 0, 1]
+                }
+            }
+
+
+
+        ]
+    },
+    {
+        "styleId": "MJP1.Geschoss.P",
+        "rules": [{
+                "conditions": {
+                    "properties": {
+                        "HOEHE": 0.35   
+                 }
+                },
+                "style": {
+                    "circleRadius": 0,
+                    "circleStrokeColor": [97, 69, 222, 0],
+                    "circleStrokeWidth": 0,
+                    "circleFillColor": [255, 255, 255, 0],
+                    "labelField": "AUFSCHRIFT",
+                    "textFont": "Arial",
+                    "textScale": 1.2,
+                    "textOffsetX": 0,
+                    "textOffsetY": 0,
+                    "textFillColor": [0, 0, 0, 1],
+                    "textStrokeColor": [255, 255, 255, 0.8],
+                    "textStrokeWidth": 1,
+                    "textbackgroundFill": [255, 255, 255, 1],
+                    "textbackgroundStroke": 20
+                }
+            },
+            {
+                "conditions": {
+                    "properties": {
+                        "HOEHE": 0.26
+                    }
+                },
+                "style": {
+		    "rotation": 90,
+		    "rotation.isDegree": true,
+		    "rotation.value": 90,
+                    "circleRadius": 0,
+                    "circleStrokeColor": [97, 69, 222, 0],
+                    "circleStrokeWidth": 0,
+                    "circleFillColor": [255, 255, 255, 0],
+                    "labelField": "AUFSCHRIFT",
+                    "textFont": "Arial",
+                    "textScale": 1,
+                    "textOffsetX": 0,
+                    "textOffsetY": 0,
+                    "textFillColor": [0, 0, 0, 1],
+                    "textStrokeColor": [255, 255, 255, 1],
+                    "textStrokeWidth": 1,
+                    "textbackgroundFill": [255, 255, 255, 1],
+                    "textbackgroundStroke": 20
+                }
+            }
+
+
+        ]
+    }
+
 
 
 ]
